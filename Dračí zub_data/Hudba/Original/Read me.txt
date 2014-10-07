@@ -1,0 +1,12 @@
+Zdarec tak tady máš první dávku toho co jsem zatím stihl.
+Nevím co na to budeš øíkat, ale když tak mi napiš co ve kterém tracku zmìnit, staèí èíslo tracku.
+
+balík obsahuje:
+
+- 02 - v chaloupce
+- 03 - pred chaloupkou (zvuk pøed a kolem chaloupky)
+- 04 - noc (prostì tajemná hudba)
+- 05 - menu - náhrh (je to zatím jen návrh)
+- 06 - piano
+
+Všechna hudba je ve formátu mp3 128Kbit, jak jsis pøál a pokud budou potøeba jìštì nìjaké zvuky tak není problém.

@@ -1,0 +1,13 @@
+pripravit obrazek 320x200
+
+photoshop odstiny sedi
+pak zase RGB
+
+pak
+
+Obraz Prizpusobit Odstin a sytost
+zaskrtnout KOlorovat a nastavit:
+
+H: 54
+S: 30
+L: -18
