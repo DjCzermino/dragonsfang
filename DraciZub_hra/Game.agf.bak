@@ -3357,10 +3357,10 @@ option-off 9
 
 return
 @1
-  DisplayAtY(140, tr("  Mé jméno... moment á už vím, jmenuji se Švec, Josef Švec - a jsem švec! Pracuji v tomto domku už od jeho postavení."));
+  DisplayAtY(140, tr("  Mé jméno... moment... á, už vím, jmenuji se Švec, Josef Švec - a jsem švec! Pracuji v tomto domku už od jeho postavení."));
   DisplayAtY(140, tr("  Døív tu se mnou bydlela i moje žena Marie. Jednoho dne jsme se však pohádali a ona ode mne odešla. Bylo mi po ní moc smutno, ale až do teï!"));
-  DisplayAtY(140, tr("  A jestli tì zajímá proè, tak mì rozesmál úèet za: plyn, co jsi vypotøeboval, za vodu, co si vyèerpal a za elektøinu, co si vyplácal!"));
-  DisplayAtY(140, tr("  Ale já se nezlobím... ...mám totiž problémy se zažíváním a tak bych se... víš co žejo?"));
+  DisplayAtY(140, tr("  A jestli tì zajímá proè, tak mì rozesmál úèet za: plyn, co jsi vypotøeboval, za vodu, co jsi vyèerpal a za elektøinu, co jsi vyplácal!"));
+  DisplayAtY(140, tr("  Ale já se nezlobím... mám totiž problémy se zažíváním a tak bych se... víš co, že jo?"));
 
 return
 @2
@@ -3371,63 +3371,63 @@ return
     DisplayAtY(140, tr("  V tomto domì spím, jím a pracuji. A pokud jsi slepý, jsem švec. Jó, mohl bys mi pomoct, ztratila se mi ševcovská jehla, když ji najdeš, dej mi ji."));
     
   DisplayAtY(140, tr("  Mùj domek je již hodnì starý, plesnivý, zpuchøelý, ba pøímo fujtajblový. Vlastnì je totálnì zdemolovaný."));
-  DisplayAtY(140, tr("  A víš proè, protože se o nìj nemá již kdo starat. Já jsem starý a moje stará je pryè. Nejhùøe je na tom støecha. Už mi sem i teèe. No, je to bída. "));
+  DisplayAtY(140, tr("  A víš proè? Protože se o nìj nemá již kdo starat. Já jsem starý a moje stará je pryè. Nejhùøe je na tom støecha. Už mi sem i teèe. No, je to bída. "));
 return
 @3
   DisplayAtY(140, tr("  Les je plný rùzných oblud a strašidel, všichni se tam bojíme jít. Jsme v této vesnici vlastnì uvìznìni, protože jeden východ zaplavila bažina a druhý zasypalo kamení."));
   DisplayAtY(140, tr("  Když ode mne odcházela moje žena, urèitì ji nìco zakouslo v lese, protože když jsme se pohádali, bylo k veèeru a ona odešla za soumraku."));
   DisplayAtY(140, tr("  Byla hodná a mìl jsem ji rád. Jinak o nestvùrách toho moc nevím, protože vlastnì ani nechodím do lesa. Jídlo a všechno mám na políèku, nebo tak nìjak."));
-  DisplayAtY(140, tr("  A obchod: Nìkdy si pøeci jen nìkdo pøijde, ale to jen ti nejodvážnìjší. A jen ve dne, v noci les takøka zabíjí. Øíkám: Nechoï v noci ven! "));  
+  DisplayAtY(140, tr("  A obchod - nìkdy si pøeci jen nìkdo pøijde, ale to jen ti nejodvážnìjší. A jen ve dne, v noci les takøka zabíjí. Øíkám: Nechoï v noci ven! "));  
   
 return
 @4
 
-  DisplayAtY(140, tr("  Mám ještì trochu pøehled o tom co kde je, ale nevím to jistì. Je zde spousta tajemna a stále se nìco nìkde mìní."));
+  DisplayAtY(140, tr("  Mám ještì trochu pøehled o tom, co kde je, ale nevím to jistì. Je zde spousta tajemna a stále se nìco nìkde mìní."));
   DisplayAtY(140, tr("  Na jihu údolí je vesnice. Znáš to, pár domù a kostel. Vedle ní je høbitov. Uprostøed údolí je Nerybí jezero. A víš proè nerybí? Protože tam nejsou žádný ryby."));
-  DisplayAtY(140, tr("  Bydlí v nìm vodník Venca. Teèe do nìj, myslim do toho jezera, øeka Hupsalka. Na východì je mlýn a na západì je mìsto a zámek."));
+  DisplayAtY(140, tr("  Bydlí v nìm vodník Venca. Teèe do nìj, myslím do toho jezera, øeka Hupsalka. Na východì je mlýn a na západì je mìsto a zámek."));
   DisplayAtY(140, tr("  No a na severu v horách prý bydlí zlý drak, který se každou chvílí chystá znovu zaútoèit. Také jsem zaslechl, že jsou v horách i trpaslíci, ale ty jsem nikdy nevidìl."));
-  DisplayAtY(120, tr("  Dále je tu ještì spoustu jiných, velmi zajímavých míst, ale vybral jsi si špatného poradce, já se stále ptám jestli víš proè a protože a tak dále a furt kecám a nic ti neøeknu, protože jsem to všechno zapomìl."));
+  DisplayAtY(120, tr("  Dále je tu ještì spoustu jiných, velmi zajímavých míst, ale vybral jsi si špatného poradce, já se stále ptám, jestli víš proè a protože a tak dále a furt kecám a nic ti neøeknu, protože jsem to všechno zapomnìl."));
   
 return
 @5
-  DisplayAtY(140, tr("  Pracuji jako švec. Toto øemeslo mì živí již spoustu let. Vydìlal jsem si na vše co vidíš v tomto domì. Poslední dobou ale obchody opravdu nejdou."));
+  DisplayAtY(140, tr("  Pracuji jako švec. Toto øemeslo mì živí již spoustu let. Vydìlal jsem si na vše, co vidíš v tomto domì. Poslední dobou ale obchody opravdu nejdou."));
   DisplayAtY(140, tr("  Co bych za to dal, kdybych mohl bydlet ve mìstì. Je tam samozøejmì bezpeènìji, ale hlavnì je tam odbyt. Ale doma je doma."));
-  DisplayAtY(140, tr("  Sem ke mì se odváží jen ti nejodvážnìjší, protože je to všude velice nebezpeèné. Pokud budeš nìco chtít dám ti i slevu, protože tady už nebyl dlouho žádný zákazník."));
-  DisplayAtY(140, tr("  A pokud se po práci sháníš ty, vim, nìjaký ty penízky se hodìj, tak ti øeknu, protože momentálnì nemam práci ani já. Zkus se ale zeptat na vesnici, tam není práce nikdy málo.")); 
+  DisplayAtY(140, tr("  Sem ke mnì se odváží jen ti nejodvážnìjší, protože je to všude velice nebezpeèné. Pokud budeš nìco chtít, dám ti i slevu, protože tady už nebyl dlouho žádný zákazník."));
+  DisplayAtY(140, tr("  A pokud se po práci sháníš sám, vím, nìjaký ty penízky se hodìj, tak ti øeknu, protože momentálnì nemam práci ani já. Zkus se ale zeptat na vesnici, tam není práce nikdy málo.")); 
 return
 @6
-  DisplayAtY(120, tr("  Jasnì, hrdinu bychom urèitì potøebovali. Jestli sháníš nìjakou práci. Tedy mám na mysli hrdinskou, tak se pøihlaš na zámku. Pan král vypsal odmìnu tomu, kdo zachrání náš kraj pøed nìjakým drakem. Nic víc o tom ale nevím."));
+  DisplayAtY(120, tr("  Jasnì, hrdinu bychom urèitì potøebovali. Jestli sháníš nìjakou práci, tedy mám na mysli hrdinskou, tak se pøihlaš na zámku. Pan král vypsal odmìnu tomu, kdo zachrání náš kraj pøed nìjakým drakem. Nic víc o tom ale nevím."));
 return
 @7
-  //DisplayAtY(140, tr("  Bojim, bojim. Opravdu se tu dìjí podivné vìci. Napøíklad v bažinách byla døíve cesta z údolí. Stála tam kaplièka. Na poèest, teï nevim koho, kdo tam umøel."));
-  //DisplayAtY(140, tr("  Byl to snad nìkdo špatnì odsouzen a pak zas nìjak zjistili, že to nebyl von tak tam postavili kaplièku."));
+  //DisplayAtY(140, tr("  Bojim, bojim. Opravdu se tu dìjí podivné vìci. Napøíklad v bažinách byla døíve cesta z údolí. Stála tam kaplièka. Na poèest, teï nevím koho, kdo tam umøel."));
+  //DisplayAtY(140, tr("  Byl to snad nìkdo špatnì odsouzen a pak zas nìjak zjistili, že to nebyl von tak, tam postavili kaplièku."));
   //DisplayAtY(140, tr("  A po zaplavení se øíkalo, že byla jeho duše probuzena a teï tam dìlá bordel. Dále na høbitovì, jako tradiènì straší. A v kostele na vesnici prý taky."));
-  //DisplayAtY(140, tr("  A to ještì není vše. Staèí když se podíváš veèer do lesa a chvíli poèkáš. Takové množství nevysvìtlitelných vìcí si ještì nevidìl."));
+  //DisplayAtY(140, tr("  A to ještì není vše. Staèí když se podíváš veèer do lesa a chvíli poèkáš. Takové množství nevysvìtlitelných vìcí jsi ještì nevidìl."));
   //DisplayAtY(140, tr("  Radši tam v noci fakt nechoï. Urèitì by se ti mohlo nìco stát."));
 return
 @8
   if (questCertFaze==3) {
     Displayc("Povìdìl jsi dìdovi, jakáže to potvora se nám usídlila na pùdì.");
     DisplayAtY(140, tr("  Ajajaj, to je zlé. Taková èertovská potvora. Co s ní ale budeme dìlat?"));
-    Displayc("Uklidnil jsi dìdu, že se èerta nìjak pokusíš vyhnat, že to nebude žádný problém. V hlouby duše si však øíkáš - ale jak?");
+    Displayc("Uklidnil jsi dìdu, že se èerta nìjak pokusíš vyhnat, že to nebude žádný problém. V hloubi duše si však øíkáš: ale jak?");
   } else {
-    Displayc("Hrdinsky jsi vylíèil dìdovi, jak si se zbavil èertovské potvory...");
-    DisplayAtY(140, tr("  Dìkuji Ti! To je dobøe, že nám nezapálil støechu!"));
+    Displayc("Hrdinsky jsi vylíèil dìdovi, jak jsi se zbavil èertovské potvory...");
+    DisplayAtY(140, tr("  Dìkuji ti! To je dobøe, že nám nezapálil støechu!"));
   }
 return
 
 @9
   DisplayAtY(140, tr("  Jak jsem již øíkal, už jsem z toho celý nervózní! Nìco se dìje u nás na pùdì. Slyším takové divné bouchání."));
-  DisplayAtY(140, tr("  Nemohl by jsi se jít podívat a zjistit co se to dìje?"));
+  DisplayAtY(140, tr("  Nemohl by ses jít podívat a zjistit co se to dìje?"));
 return
 
 @10
   DisplayAtY(140, tr("  Inu, co bych ti k tomu víc øekl? Prostì jsem sedìl tady doma a venku byla šílená bouøe. Takovou jsem snad nikdy nevidìl!"));  
-  DisplayAtY(140, tr("  No a najednou jsem z nedalekého lesa slyšel tak nesnesitelné volání o pomoc, že mi to nedalo a vyrazil jsem. Našel jsem tì uprostøed bažiny uplnì vysíleného!"));  
+  DisplayAtY(140, tr("  No a najednou jsem z nedalekého lesa slyšel tak nesnesitelné volání o pomoc, že mi to nedalo, a vyrazil jsem. Našel jsem tì uprostøed bažiny úplnì vysíleného!"));  
   DisplayAtY(140, tr("  A tak jsem tì vytáhl a dopravil až sem, pokraèování už znáš sám."));  
 return
 @11
-  DisplayAtY(140, tr("  Ále co, rád jsem ti pomohl. To by pøece udìlal každý na mém místì, nebo ne?"));  
+  DisplayAtY(140, tr("  Ale co, rád jsem ti pomohl. To by pøece udìlal každý na mém místì, nebo ne?"));  
 return
 @12
   CloseDialogScreen(gDialogDeda,"Slušnì jsi se rozlouèil.");
@@ -3516,9 +3516,9 @@ stop
 @S  // Dialog startup entry point
   LoadDialogScreen(gDialogDeda,""); 
   GiveScore(5);
-  DisplayAtY(140, tr("Áááh dìkuji! Kde byla?"));
-  Displayc("Barvitì jsi dìdovi vylíèil kde ševcovská jehla byla a jak nároèný a hrdinský èin to byl ji najít.");
-  DisplayAtY(140, tr("Dobrá, dobrá synu. Ještì jednou velice dìkuji. Mùžu se pustit opìt do práce.. Ehm tedy, až se obìví nìjaký nový zákazník."));
+  DisplayAtY(140, tr("Áh, dìkuji! Kde byla?"));
+  Displayc("Barvitì jsi dìdovi vylíèil, kde ševcovská jehla byla a jak nároèný a hrdinský èin to byl ji najít.");
+  DisplayAtY(140, tr("Dobrá, dobrá, synu. Ještì jednou velice dìkuji. Mùžu se pustit opìt do práce... ehm, tedy až se objeví nìjaký nový zákazník."));
   player.LoseInventory(iJehla);  
   dalDedoviJehlu = true;
   questCertFaze = 1;
@@ -3541,7 +3541,7 @@ stop
   
 return
 @1
-  Displayc("Jednoduše jsi èertovy vysvìtlil, že tohle není žádný JEHO pøíbytek, nýbrž pùda dìdy a a se okamžitì kouká pakovat!");
+  Displayc("Jednoduše jsi èertovi vysvìtlil, že tohle není žádný JEHO pøíbytek, nýbrž pùda dìdy a a se okamžitì kouká pakovat!");
   PlaySound(9);
   DisplayAtY(140, tr("Budliky budliky! Hahaha! Tak to ani náhodou!"));  
   CloseDialogScreen(gDialogCert,""); 
@@ -3573,11 +3573,11 @@ stop
 @S  // Dialog startup entry point
   LoadDialogScreen(gDialogDeda,""); 
   PlaySound(10);
-  DisplayAtY(140, tr("  Á tady jsi! Už jsem z toho celý nervózní! Nìco se dìje u nás na pùdì. Slyším takové divné bouchání."));
+  DisplayAtY(140, tr("  Á, tady jsi! Už jsem z toho celý nervózní! Nìco se dìje u nás na pùdì. Slyším takové divné bouchání."));
   PlaySound(11);
-  DisplayAtY(140, tr("  Nemohl by jsi se jít podívat, co se to dìje?"));
+  DisplayAtY(140, tr("  Nemohl by ses jít podívat, co se to dìje?"));
   PlaySound(10);
-  Displayc("Slíbil jsi dìdovi, že se hned podíváš co na pùdì straší.");
+  Displayc("Slíbil jsi dìdovi, že se hned podíváš, co na pùdì straší.");
   questCertFaze = 2;
   zobrazCerta=1;
   PlaySound(11);
@@ -3852,23 +3852,23 @@ stop
   Wait(20);
   gDialogDedaUdiv.Visible = false;
   Wait(40);
-  DisplayAtY(140, tr("Mladý muži, jak je možné, že jsem dnes ráno našel mou skøínku otevøenou?!"));
-  Displayc("Pokusil jsi se dìdovi vysvìtlit, že vlivem jeho vyššího vìku, je možná pravdìpodobné, že si svou skøínku zapomìl zavøít sám...");
+  DisplayAtY(140, tr("Mladý muži, jak je možné, že jsem dnes ráno našel svou skøínku otevøenou?!"));
+  Displayc("Pokusil jsi se dìdovi vysvìtlit, že vlivem jeho vyššího vìku je možná pravdìpodobné, že si svou skøínku zapomnìl zavøít sám.");
 
   Wait(60);
   gDialogDedaUdiv.Visible = true;
   Wait(20);
   gDialogDedaUdiv.Visible = false;
   Wait(40);
-  DisplayAtY(140, tr("Ale kdepak! To ti neuvìøím! Takle jsi se mi chtìl odvdìèit za moji dobrotu?"));
-  Displayc("Pokusil jsi se ze sebe vyhrnout nìkolik prvních slov tvé sáhodlouhé omluvy ale...");
+  DisplayAtY(140, tr("Ale kdepak! To ti neuvìøím! Takhle ses mi chtìl odvdìèit za moji dobrotu?"));
+  Displayc("Pokusil jsi se ze sebe vyhrnout nìkolik prvních slov své sáhodlouhé omluvy, ale...");
   
   Wait(60);
   gDialogDedaUdiv.Visible = true;
   Wait(20);
   gDialogDedaUdiv.Visible = false;
   Wait(40);
-  DisplayAtY(140, tr("Nic na mì nezkoušej! Má dùvìra je ztracena. Zbal se a .. a už tì tu nechci vidìt!"));
+  DisplayAtY(140, tr("Nic na mì nezkoušej! Má dùvìra je ztracena. Sbal se a... a už tì tu nechci vidìt!"));
   CloseDialogScreen(gDialogDeda,"");
 stop
 ]]></Script>
@@ -7939,7 +7939,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-02 19:17:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-02 23:17:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music2.mp3</SourceFileName>
@@ -7951,7 +7951,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-02 19:17:08Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-02 23:17:08Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music3.mp3</SourceFileName>
@@ -7963,7 +7963,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-01-27 17:22:13Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-01-27 19:22:13Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music4.mp3</SourceFileName>
@@ -7975,7 +7975,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-01-27 17:22:17Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-01-27 19:22:17Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music5.mp3</SourceFileName>
@@ -7987,7 +7987,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2006-01-27 17:22:19Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2006-01-27 19:22:19Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music6.mp3</SourceFileName>
@@ -7999,7 +7999,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-03 21:56:48Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-04 01:56:48Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music7.mp3</SourceFileName>
@@ -8011,7 +8011,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-08 21:39:13Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-09 01:39:13Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music8.mp3</SourceFileName>
@@ -8023,7 +8023,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-06 00:28:35Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-06 04:28:35Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>music\music9.mp3</SourceFileName>
@@ -8035,7 +8035,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-15 00:42:44Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-15 04:42:44Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Music\intro1.mp3</SourceFileName>
@@ -8047,7 +8047,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-01-31 19:20:24Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-01-31 21:20:24Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_grafika\Hudba\composer16mm\tothenight.mp3</SourceFileName>
@@ -8059,7 +8059,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-15 00:42:32Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-15 04:42:32Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8083,7 +8083,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1998-06-25 12:29:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1998-06-25 16:29:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -8095,7 +8095,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-09 10:08:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-09 14:08:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound11.wav</SourceFileName>
@@ -8107,7 +8107,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 05:12:40Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 07:12:40Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.wav</SourceFileName>
@@ -8119,7 +8119,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-04-19 11:30:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-04-19 15:30:50Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound13.wav</SourceFileName>
@@ -8131,7 +8131,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-04-19 11:30:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-04-19 15:30:50Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound14.wav</SourceFileName>
@@ -8143,7 +8143,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2001-02-17 13:18:24Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2001-02-17 15:18:24Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound15.wav</SourceFileName>
@@ -8155,7 +8155,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-03 15:53:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-03 17:53:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound16.wav</SourceFileName>
@@ -8167,7 +8167,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-17 07:42:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-17 11:42:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound17.wav</SourceFileName>
@@ -8179,7 +8179,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-12-24 18:53:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-12-24 20:53:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound18.wav</SourceFileName>
@@ -8191,7 +8191,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-03 15:53:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-03 17:53:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -8203,7 +8203,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-03-07 22:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-03-08 00:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -8215,7 +8215,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-05 17:28:22Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-05 21:28:22Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -8227,7 +8227,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-08-08 00:46:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-08-08 04:46:50Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -8239,7 +8239,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-05 17:35:18Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-05 21:35:18Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -8251,7 +8251,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-04-07 14:02:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-04-07 18:02:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -8263,7 +8263,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 05:14:58Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 07:14:58Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -8275,7 +8275,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 05:12:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 07:12:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -8287,7 +8287,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-09 08:46:45Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-09 12:46:45Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\zaplaceno.wav</SourceFileName>
@@ -8299,7 +8299,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 06:55:49Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-01 08:55:49Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\put.wav</SourceFileName>
@@ -8311,7 +8311,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 07:29:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-01 09:29:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\toci_pivo.wav</SourceFileName>
@@ -8323,7 +8323,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 07:38:58Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-01 09:38:58Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\vypil_pivo.wav</SourceFileName>
@@ -8335,7 +8335,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 07:39:45Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-01 09:39:45Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\mlynske_kolo.wav</SourceFileName>
@@ -8347,7 +8347,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 09:33:52Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-01 11:33:52Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\wind.wav</SourceFileName>
@@ -8359,7 +8359,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-08-07 16:46:12Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-08-07 20:46:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\hrom.wav</SourceFileName>
@@ -8371,7 +8371,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-03 05:47:01Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-03 07:47:01Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\blesk.wav</SourceFileName>
@@ -8383,7 +8383,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-08-07 12:46:46Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-08-07 16:46:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\krb_polinko.mp3</SourceFileName>
@@ -8395,7 +8395,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-07 12:24:15Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-07 16:24:15Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\snore-right.mp3</SourceFileName>
@@ -8407,7 +8407,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-07 12:26:19Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-07 16:26:19Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\snoring-right.mp3</SourceFileName>
@@ -8419,7 +8419,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-07 12:25:12Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-07 16:25:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\pochoden.mp3</SourceFileName>
@@ -8431,7 +8431,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-07 11:53:18Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-07 15:53:18Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
@@ -8499,6 +8499,7 @@ See KeyboardMovement.txt for details.
   <Component Name="AudioNew" />
   <Component Name="GlobalVariables" />
   <Component Name="Scripts" />
+  <Component Name="DelayAutomation" />
   <Component Name="Plugins" />
   <Component Name="Rooms" />
   <Component Name="Translations" />
