@@ -1,0 +1,1484 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Jm/9no
+Name
+Domek
+Cottage
+Les
+Woord
+Okol/8
+Neighborhood
+Pr/7ce
+Work
+Hrdina
+Hero
+Tajemno
+Mystery
+/15ert
+Devil
+P/12da
+Garret
+Z/7chrana
+Rescue
+Pod/1kuj
+Say "Thank you"
+Na shledanou
+Good bye
+Slušnì jsi pozdravil.
+
+  Mé jméno... moment... á, u vím, jmenuji se Švec, Josef Švec - a jsem švec! Pracuji v tomto domku u od jeho postavení.
+
+  Døív tu se mnou bydlela i moje ena Marie. Jednoho dne jsme se však pohádali a ona ode mne odešla. Bylo mi po ní moc smutno, ale a do teï!
+
+  A jestli tì zajímá proè, tak mì rozesmál úèet za: plyn, co jsi vypotøeboval, za vodu, co jsi vyèerpal a za elektøinu, co jsi vyplácal!
+
+  Ale já se nezlobím... mám toti problémy se zaíváním a tak bych se... víš co, e jo?
+
+  V tomto domì spím, jím a pracuji. A pokud jsi slepı, jsem švec. 
+
+  V tomto domì spím, jím a pracuji. A pokud jsi slepı, jsem švec. Jó, mohl bys mi pomoct, ztratila se mi ševcovská jehla, kdy ji najdeš, dej mi ji.
+
+  Mùj domek je ji hodnì starı, plesnivı, zpuchøelı, ba pøímo fujtajblovı. Vlastnì je totálnì zdemolovanı.
+
+  A víš proè? Protoe se o nìj nemá ji kdo starat. Já jsem starı a moje stará je pryè. Nejhùøe je na tom støecha. U mi sem i teèe. No, je to bída. 
+
+  Les je plnı rùznıch oblud a strašidel, všichni se tam bojíme jít. Jsme v této vesnici vlastnì uvìznìni, protoe jeden vıchod zaplavila baina a druhı zasypalo kamení.
+
+  Kdy ode mne odcházela moje ena, urèitì ji nìco zakouslo v lese, protoe kdy jsme se pohádali, bylo k veèeru a ona odešla za soumraku.
+
+  Byla hodná a mìl jsem ji rád. Jinak o nestvùrách toho moc nevím, protoe vlastnì ani nechodím do lesa. Jídlo a všechno mám na políèku, nebo tak nìjak.
+
+  A obchod - nìkdy si pøeci jen nìkdo pøijde, ale to jen ti nejodvánìjší. A jen ve dne, v noci les takøka zabíjí. Øíkám: Nechoï v noci ven! 
+
+  Mám ještì trochu pøehled o tom, co kde je, ale nevím to jistì. Je zde spousta tajemna a stále se nìco nìkde mìní.
+
+  Na jihu údolí je vesnice. Znáš to, pár domù a kostel. Vedle ní je høbitov. Uprostøed údolí je Nerybí jezero. A víš proè nerybí? Protoe tam nejsou ádnı ryby.
+
+  Bydlí v nìm vodník Venca. Teèe do nìj, myslím do toho jezera, øeka Hupsalka. Na vıchodì je mlın a na západì je mìsto a zámek.
+
+  No a na severu v horách prı bydlí zlı drak, kterı se kadou chvílí chystá znovu zaútoèit. Také jsem zaslechl, e jsou v horách i trpaslíci, ale ty jsem nikdy nevidìl.
+
+  Dále je tu ještì spoustu jinıch, velmi zajímavıch míst, ale vybral jsi si špatného poradce, já se stále ptám, jestli víš proè a protoe a tak dále a furt kecám a nic ti neøeknu, protoe jsem to všechno zapomnìl.
+
+  Pracuji jako švec. Toto øemeslo mì iví ji spoustu let. Vydìlal jsem si na vše, co vidíš v tomto domì. Poslední dobou ale obchody opravdu nejdou.
+
+  Co bych za to dal, kdybych mohl bydlet ve mìstì. Je tam samozøejmì bezpeènìji, ale hlavnì je tam odbyt. Ale doma je doma.
+
+  Sem ke mnì se odváí jen ti nejodvánìjší, protoe je to všude velice nebezpeèné. Pokud budeš nìco chtít, dám ti i slevu, protoe tady u nebyl dlouho ádnı zákazník.
+
+  A pokud se po práci sháníš sám, vím, nìjakı ty penízky se hodìj, tak ti øeknu, protoe momentálnì nemam práci ani já. Zkus se ale zeptat na vesnici, tam není práce nikdy málo.
+
+  Jasnì, hrdinu bychom urèitì potøebovali. Jestli sháníš nìjakou práci, tedy mám na mysli hrdinskou, tak se pøihlaš na zámku. Pan král vypsal odmìnu tomu, kdo zachrání náš kraj pøed nìjakım drakem. Nic víc o tom ale nevím.
+
+Povìdìl jsi dìdovi, jakáe to potvora se nám usídlila na pùdì.
+
+  Ajajaj, to je zlé. Taková èertovská potvora. Co s ní ale budeme dìlat?
+
+Uklidnil jsi dìdu, e se èerta nìjak pokusíš vyhnat, e to nebude ádnı problém. V hloubi duše si však øíkáš: ale jak?
+
+Hrdinsky jsi vylíèil dìdovi, jak jsi se zbavil èertovské potvory...
+
+  Dìkuji ti! To je dobøe, e nám nezapálil støechu!
+
+  Jak jsem ji øíkal, u jsem z toho celı nervózní! Nìco se dìje u nás na pùdì. Slyším takové divné bouchání.
+
+  Nemohl by ses jít podívat a zjistit co se to dìje?
+
+  Inu, co bych ti k tomu víc øekl? Prostì jsem sedìl tady doma a venku byla šílená bouøe. Takovou jsem snad nikdy nevidìl!
+
+  No a najednou jsem z nedalekého lesa slyšel tak nesnesitelné volání o pomoc, e mi to nedalo, a vyrazil jsem. Našel jsem tì uprostøed bainy úplnì vysíleného!
+
+  A tak jsem tì vytáhl a dopravil a sem, pokraèování u znáš sám.
+
+  Ale co, rád jsem ti pomohl. To by pøece udìlal kadı na mém místì, nebo ne?
+
+Slušnì jsi se rozlouèil.
+
+Áh, dìkuji! Kde byla?
+
+Barvitì jsi dìdovi vylíèil, kde ševcovská jehla byla a jak nároènı a hrdinskı èin to byl ji najít.
+
+Dobrá, dobrá, synu. Ještì jednou velice dìkuji. Mùu se pustit opìt do práce... ehm, tedy a se objeví nìjakı novı zákazník.
+
+Zmiz /3erte
+Go away!
+Rad/2i nic
+
+Budliky budliky! Bídnı èerve! Co mì rušíš v mém pøíbytku?!
+
+Jednoduše jsi èertovi vysvìtlil, e tohle není ádnı JEHO pøíbytek, nıbr pùda dìdy a a se okamitì kouká pakovat!
+
+Budliky budliky! Hahaha! Tak to ani náhodou!
+
+  Á, tady jsi! U jsem z toho celı nervózní! Nìco se dìje u nás na pùdì. Slyším takové divné bouchání.
+
+  Nemohl by ses jít podívat, co se to dìje?
+
+Slíbil jsi dìdovi, e se hned podíváš, co na pùdì straší.
+
+Pozdrav
+Say "Hello"
+Ahoj
+Hello
+D/7m si pivo
+
+Najmout pokoj
+Rent a room
+Kr/3ma
+Pub
+M/1sto
+Town
+Nemoc
+Illness
+Ano
+Yes
+Ne
+No
+Nic
+Nothing
+Tak co to bude?
+Whadda want?
+Dobrá.
+Yes sir.
+Hele mladej, bez penìz do hospody nelez.
+
+Jedno u si dostal mladej! Jesli chceš další, tak ho tam musíš nejdøív kopnout!
+
+Chceš si najmout pokoj? Stojí pìt zlatıch!
+
+Nemám èas na vásty!
+
+Krèma tu stojí u od nepamìti, zaloil ji mùj dìd. Schází se tu veškerá smetánka našeho mìsta na naše nejlepší pivo.
+
+Také pronajímáme pokoje, které jsou nahoøe.
+
+No, co bych ti k tomu øekl...
+
+ijeme si tu vcelku dobøe, ale poslední dobou se nese mìstem zpráva, e je náš pan král tìce nemocen.
+
+Moc toho nevím, snad jen to, e náš král onemocnìl neznámou nemocí na kterou není ádnı lék.
+
+U u nìj bylo mnoho apatikáøù a šarlatánù ale nikdo mu zatím nepomohl.
+
+Král pøislíbil pùl království tomu, kdo ho zachrání ale zatím se nikdo nenašel...
+
+Mladı mui, jak je moné, e jsem dnes ráno našel svou skøínku otevøenou?!
+
+Pokusil jsi se dìdovi vysvìtlit, e vlivem jeho vyššího vìku je moná pravdìpodobné, e si svou skøínku zapomnìl zavøít sám.
+
+Ale kdepak! To ti neuvìøím! Takhle ses mi chtìl odvdìèit za moji dobrotu?
+
+Pokusil jsi se ze sebe vyhrnout nìkolik prvních slov své sáhodlouhé omluvy, ale...
+
+Nic na mì nezkoušej! Má dùvìra je ztracena. Sbal se a... a u tì tu nechci vidìt!
+
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+
+flashlight.bmp
+
+/10
+
+/11
+
+/12
+
+/13
+
+/14
+
+/15
+
+/16
+
+/17
+
+/18
+
+/19
+
+/20
+
+/21
+
+/22
+
+/23
+
+/24
+
+/1
+
+/2
+
+/3
+
+/4
+
+/5
+
+/6
+
+/7
+
+/8
+
+/9
+
+Nic tam není.
+
+Tohle sebrat nejde.
+
+K èemu ti to bude?
+
+S tim nemùeš nic dìlat.
+
+Mlèí to jako ryba.
+
+S tím si moc nepokecáš.
+
+Nevím, s èím si tady chceš povídat.
+
+Tak to nejde dohromady.
+
+Nech si to radši u sebe.
+
+Sem to rozhodnì nepatøí.
+
+Nech to na svém místì.
+
+S tím nejde nic dìlat.
+
+S tím nic nenadìláš.
+
+Voice and Text
+
+Pokraèovat
+Continue
+O HØE
+ABOUT
+Zpìt
+Back
+VİCHOZÍ
+DEFAULT
+Jeiš né!
+
+ANO pøeji
+
+Uloit
+Save
+Nahrát
+Restore
+ULOIT
+SAVE
+NAHRÁT
+RESTORE
+POKRAÈOVAT
+CONTINUE
+Rychle pryè
+
+Tak né, no
+
+Nová hra
+New game
+Draèí Zub
+Dragon's Fang
+Skuteènì si pøejete restartovat hru?
+Are you sure you want to restart the game?
+Pod jakım názvem bude Vaše draèi dobrodruství uchováno?
+
+Jaké dobrodruství chcete oivit?
+Which adventure you want to restore?
+Skuteène si pøejete opustit hru?
+Do you really want to leave the game?
+0.78
+
+ DEMO
+
+v%s
+
+3.21.1115
+
+ì
+
+e
+
+š
+
+s
+
+è
+
+c
+
+ø
+
+r
+
+
+
+z
+
+ı
+
+y
+
+á
+
+a
+
+í
+
+i
+
+é
+
+ú
+
+u
+
+ù
+
+ï
+
+d
+
+
+
+t
+
+ò
+
+n
+
+Ì
+
+E
+
+Š
+
+S
+
+È
+
+C
+
+Ø
+
+R
+
+
+
+Z
+
+İ
+
+Y
+
+Á
+
+Í
+
+I
+
+É
+
+Ú
+
+U
+
+Ù
+
+Ï
+
+D
+
+
+
+T
+
+Ò
+
+N
+
+Ó
+
+ó
+
+B
+
+F
+
+G
+
+H
+
+J
+
+K
+
+L
+
+M
+
+O
+
+P
+
+Q
+
+V
+
+W
+
+X
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0
+
+b
+
+f
+
+g
+
+h
+
+j
+
+k
+
+l
+
+m
+
+o
+
+p
+
+q
+
+v
+
+w
+
+x
+
+-
+
+%s %d/20
+
+Skóre
+Score
+%s %02d:%02d
+
+Draèí Zub Verze %s, Èas:
+Dragon's Fang Version %s, Time:
+Nevím, kdo to je.
+
+Radìji nesahat.
+
+Nech si to u sebe.
+
+ádná odpovìï..
+No response...
+Po bliším prozkoumání jsi nezjistil nic nového.
+
+To asi nebude správná kombinace.
+
+Jak s tím chceš probùh mluvit?
+
+scrnshot.bmp
+
+Je tam tma, nic nevidím!
+
+Je tu tma, nic nevidím!
+
+Sakryš, dneska mi to sekne!
+
+To jsem já!
+
+Co na mì šmatáš, èoveèe?!
+
+Protáhl sis ruce a zastrèil košili do kalhot. Nojo, jsi fešák!
+You rub your hands up and down your clothes.
+Mumly mumly... samomluva z pøepracování?
+Talking to yourself is a sign of madness!
+Momentálnì nemáš náladu si sám se sebou povídat, snad pøíštì.
+
+Voice only
+
+Text only
+
+Aby se mohl náš pøíbìh vyprávìt ještì po tisíciletích, je tøeba znát jméno našeho hrdiny.
+
+Zadej své jméno. Pamatuj, e náš hrdina je MU!
+
+_
+
+Dìda spí! Nech to na pozdìji.
+
+Co by s tím chudák dìda dìlal?
+
+Jehla
+Needle
+Toto je ševcovská jehla. Dìda ji pouívá ke své práci, take bys mu ji mìl co nejdøíve navrátit.
+
+Jau!
+Ouch!
+Ham a u je tam!
+
+Chceš zkusit zkousnutím, jesli jsou pravé?
+
+Copak jsi èarodìjnice?
+
+Ne, opravdu nevím, co po mnì chceš :-)
+
+Jó, tak tohle je náš dìda. Ehm, teda on není ani tak vlastnì tvùj. Prakticky je to uplnì cizí pán, kterı tì zachránil. No, nedá se nic dìlat, je to prostì náš dìda.
+
+Radši na dìdu moc nešmatej, bùhví jak by to chudák pochopil.
+
+Letající ohnivá koulo-potvora!
+
+Vrchní pekelník ve své plné parádì.
+
+To byla pecka!
+What a hit!
+Teï to koupil!
+
+Potvora jedna, ještì to chce jednu!
+
+Dokázal jsi to! Vyprášil jsi èertovi koich! Sláva!
+
+Tímhle ji asi nevyenem.
+
+Tohle na nìj asi neplatí.
+
+Pokusil ses vyèkat na ten pravı okamik a chòapul jsi po lítající ohnivé kouli!
+
+Aaaaaau! Horká![Se spálenou rukou jsi rychle ucuknul. Takle to nepùjde...
+
+Takle s èertem asi nehneš.
+
+Vypadá to, e v tuto chvíli nemá èert absolutnì náladu si povídat...
+
+\"Hola hola! Létající potvoro! Pøestaò lítat a postav se mi jako chlap!\" zvolal jsi s notnou dávkou pøedstíraného sebevìdomí v hlase.. Bohuel v kalhotách by to chtìlo toho sebevìdomí víc..
+
+Kde se vzal, tu se vzal, náhle se pøed tebou objevil smrdutı èert! Tfuj, to ses lek!
+
+S tím úklidem to nemusíš tolik pøehánìt, vdy dìda spí!
+
+zameteno udedy
+zameteno udedy
+Mìšec s penìzi, ale je prázdnı.
+
+Mìšec s penìzi, je v nìm poslední zlaák.
+
+Mìšec s penìzi, jsou v nìm poslední dva zlaáky.
+
+Mìšec s penìzi, jsou v nìm poslední tøi zlaáky.
+
+Mìšec s penìzi, jsou v nìm ètyøi zlaáky.
+
+%s %d %s
+
+Mìšec s penìzi. Máš v nìm
+
+zlatıch.
+
+Klíè od pokoje ve mìstì.
+
+Vrátil jsi klíè barmanovi.
+
+Co by s tím dìlal?
+
+Hospodskı. Dokud si od nìj nìco nekoupíš, nevypadá zrovna pøátelsky.
+
+Nešahat!
+
+To je pan mlynáø.
+
+Polínko do kamen.
+
+Krásné èerstvé šavnaté jablíèko.
+
+Vloil jsi polínko do kamen. Zanedlouho se oheò rozhoøel a místností se rozlıhá krásné praskání ohnì.
+
+Šup na pec.
+
+Netrvalo dlouho a po nároèném dnu jsi usnul jak dudek...
+
+Tak šup dolù z pece! U je novı den!
+
+Je tu svìtlo, není dùvod zapalovat polínko. A vùbec, radìji s ohnìm pozor!
+
+Tak dobrá, trochu si tu posvítíme...
+
+sebral koste
+sebral koste
+Opravdu nevím, na co by ti teï bylo koštì...
+
+Hoøící pochodeò, jde od ní teplo a svìtlo, ale radìji s ní opatrnì!
+
+Poté, co jsi vykonal vše, co bylo tøeba, jsi opustil dìdovu chaloupku...
+
+Tvé kroky tì zavedly a k rozcestí, odkud vidíš vše, co budeš moci navštívit.
+
+Zámek, vesnici, høbitov, mlın, jezero a mnoho dalšího! Bohuel si na to budeš muset ještì chvíli poèkat.
+
+Dìkujeme, e jste si zahráli adventuru Draèí Zub DEMO!
+
+Koštì na zametání a vymetání... Nezapomìò ho vrátit, a udìláš, co je tøeba..
+
+Krásná èervená mrkev.
+
+Draci Zub
+Dragon's Fang
+Skore 100/100
+Score 100/100
+(INVSHR)
+
+New Button
+
+POKRACOVAT
+CONTINUE
+ULOZIT
+SAVE
+O HRE
+ABOUT
+KONEC
+QUIT
+Vychozi
+Default
+NAHRAT
+Restore
+Hlasitost hudby
+Music volume
+Hlasitost zvuku
+Sound volume
+Hlasitost hlasu
+Voice volume
+Gamma
+Gamma
+Pouze text
+Text only
+Rychlost
+Speed
+RESTART
+RESTART
+v0.0
+v0.0
+Skutecne si prejete restartovat hru?
+Do you really want to restart the game?
+Ano, preji
+Yes I want
+Jezis nee
+Nooo
+Pod jakym nazvem bude Vase draci dobrodruzstvi uchovano?
+
+Ulozit
+Save
+Zpet
+Back
+Smazat
+Delete
+Jake dobrodruzstvi chcete ozivit?
+
+Nahrat
+Restore
+Rychle pryc
+
+Tak ne, no
+
+Skutecne si prejete opustit hru?
+
+Nova hra
+New game
+Pokracovat
+Continue
+Konec
+Quit
+OK
+OK
+inpText
+
+New Label
+
+b1
+
+b2
+
+Konec hry.
+End game.
+Deda z chaloupky
+Grandfather of cottage
+New character
+New character
+Chaloupka Jezibaby
+Gretel Witch
+Barman
+Barman
+ohen
+fire
+Key
+Key
+Pink poster
+Pink poster
+New inventory item
+New inventory item
+Mìšec penìz
+Purse with money
+Sorry, not now.
+Sorry, not now.
+Restore
+Restore
+Cancel
+Cancel
+Select a game to restore:
+Select a game to restore:
+Save
+Save
+Type a name to save as:
+Type a name to save as:
+Replace
+Replace
+The save directory is full. You must replace an existing game:
+The save directory is full. You must replace an existing game:
+Replace:
+Replace:
+With:
+With:
+Quit
+Quit
+Play
+Play
+Are you sure you want to quit?
+Are you sure you want to quit?
+You are carrying nothing.
+You are carrying nothing.
+Talking to yourself is a sign of madness!
+Talking to yourself is a sign of madness!
+You rub your hands up and down your clothes.
+You rub your hands up and down your clothes.
+Damn, I'm looking good!
+
+drak loaded
+dragon loaded
+No hotspot
+
+Hotspot 1
+
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+en_bg
+en_bg
+Teï v noci chodit do temného lesa? No to snad nemyslíš ani vánì!
+
+Máš takovı pocit, e tu ještì musíš nìco udìlat...
+
+konec hry
+end game
+Dobrá, vše máš ji hotovo. Jdeme tedy...
+
+Nedbaje rad moudrého starce, vydal jsi se ven, do temnoty... Netrvalo dlouho a temné síly, na které tì upozoròoval, tì zcela pohltily. Marnì tì ji ráno omıval studenou vodou. KONEC
+
+Dìdùv baráèek. Krásná chaloupka schovaná uprostøed lesa.
+
+Komín. Tudy prochází kouø z kamen, co jsou uvnitø. Jak rafinované!
+
+Nacházíš se uprostøed lesa pøed dìdovou chaloupkou. Dolù vede cestièka, která smìøuje do mìsta.
+
+Tato branka tì zavede k dìdovi pøed domek. Staèí vzít za kliku a jsi tam.
+
+\"Chaloupko! Chaloupko!\"[  Ehm... jak je to dál?
+
+K èemu ti bude komín?
+
+Staèí vzít za kliku.
+
+Bohuel, netrvalo dlouho a ztratil jsi se v temném lese.. U o tobì nikdy nikdo neslyšel.. KONEC
+
+Pøed tebou se rozléhá krásné malebné údolí, kterému dominuje místní královstvíèko. Aby mohlo královstvíèko vùbec existovat, potøebuje nìjaké poddané v podobì obyvatel ve vesnici.
+
+Copak ty také patøíš k té skupinì vandalù, co si domù odnášejí znaèky a cedule?
+
+Severovıchodním smìrem se nachází královstvíèko. Na jihu údolí je vesnice. Na sever je les. Nue velice struènı informativní ukazatel.
+
+Cedule nemluví, ty se ètou.
+
+Pokud si chceš nabrat vodu, musíš jít blí k jezeru.
+
+Jezero.
+Lake.
+bluòk!
+Splash!
+Pokud máš zájem nìco utopit, musíš jít blí.
+
+Toto stavení svım vzhledem pøipomíná mlın. Poznal jsi to pøedevším z mlınského kola umístìného na levoboku.
+
+Náves s kostelem.
+
+Jesli chceš øíct nìco nìkomu z vesnice, asi by to chtìlo tam zajít osobnì.
+
+Dalších pár baráèkù co spadají do územního plánu vesnice. Po lehkém zlhédnutí nemáš potøebu navštìvovat a obtìovat další lidi svımi hrdinskımi manıry.
+
+Jako kadı kraj i zde je potøeba tu a tam nìkoho pohøbít. K tomuto úèelu bohatì staèí místní høbitov.
+
+Tam si asi s nikym moc nepopovídáš.
+
+Tohle pod drn nepatøí.
+
+Na jihozápadì údolí pøechází les v podivnou krajinu kde bys teko hledal ivou dušièku. Ehm. ivou dušièku, která by tì zrovna nechtìla serat!
+
+Jak se do lesa volá, tak se z lesa ozıvá.
+
+Les na severozápadì vypadá jako jedna velká baina. Nejspíš je to dáno táním snìhu z hor. Nebo e by to byla baina nepøírodního charakteru? V kadém pøípadì by to správnı hrdina mìl provìøit.
+
+Hory, ty se nehnou kamaráde.
+
+Na severu údolí vidíš v dálce mohutné pohoøí jeho vrcholky jsou pokryty snìhem. Dodávají krajinì tu správnou atmosféru. Snad nebudeš muset šplhat a nahoru na horu.
+
+Pokud máš zájem o šišku, musíš jít do lesa.
+
+Les.
+Wood.
+V tomto lese ije dìda a i jiná havì.
+
+Jak se do lesa volá, tak se z lesa ozıvá!
+
+Pokud máš zájem o nìjakı ten královskı suvenır, budeš si asi muset zajít na zámek. Takle z dálky to nejde.
+
+Královstvíèko, které urèitì potøebuje nìjakého toho hrdinu. Co jiného bys tady pøece jinak dìlal.
+
+Na pokec musíš jít na nádvoøí.
+
+Ale notak, hledat jehlu mùeš jen ve své kupce sena. Co by si pan mlynáø pomyslel!
+
+Kupka sena.
+
+Nevím nevím, zdali se chceš tahat s tekym sudem.
+
+Sud kulatı rys tu pije.. Ehm tedy, jak tak koukám, ádnı rys tu není, tak budu radší zticha.
+
+Ikdy je to jen sláma, pøesto není tvoje nıbr pana mlynáøe, kterı si ji tady suší na horší èasy.
+
+Pan mlynáø si suší na pùdì slámu, jak rafinované.
+
+Mlynáøovic chalupa je vcelku pìkné stavení.
+
+Takovou práci to dalo ho roztoèit, take vskutku nemáš zájem ho zase zastavovat.
+
+Holıma rukama roztoèit nejde.
+
+Parádièka, mlınské kolo se toèí.
+
+Pokud se domníváš správnì, mìlo by se tohle toèit, tak kde je problém?.
+
+Áááh ano, chybí tu voda!
+
+Takle to kolo rozhıbat nejde.
+
+Nálevka, kterou teèe voda na mlınské kolo.
+
+Radši tam nic neházej!
+
+Nacházíš se u mlynáøe pøed domem. Baráèek je vskutku hezkı. Pìšinou vlevo se dostaneš zpìt do údolí.
+
+Mlınské kolo se krásnì toèí, take se vše zdá v naprostém poøádku.
+
+Jedna vìc tu ale nehraje. Mlınské kolo se netoèí.
+
+Stojíš pøed hradní bránou, která smìøuje pøímo na nádvoøí. Hrady jsou z masivního pískovce. Hradní brána se na noc zavírá aby bylo mìsto ochránìno pøed všemonou havìtí, která tu slídí všude kolem.
+
+Tady tì mùou slyšet tak akorát stráe, take sis pokøikování radši rozmyslel.
+
+Hradní brána je otevøena
+
+Hradní brána je zavøena. Nojo, ale jak teï do mìsta?
+
+\"Sezame otevøi se!\"
+
+Les obklopuje celé království.
+
+Zdá se, e nikdo neslyší...
+
+Dveøe smìøující do kostela. Jsou vyrobeny z masivního dubového døeva aby se do kostela nevloupali Petrovští.
+
+Takle tì nikdo neuslyší, musíš nejdøív zaklepat.
+
+Na dveøe platí jen lehce pokrèenı ukazováèek otoèenı špièkou smìrem k tobì vykonávající pohyb jako slepice, kdy zobe... Jynımi slovy staèí zaklepat.
+
+Poøádnı kostel nesmí chybìt v ádné vesnici aby mohli všichni zlobit a pak se mohli vyzpovídat a vše bylo zase v poøádku.
+
+Dùm.
+House.
+Vzhledem k tomu, jakı bude majitel asi lakomec bych mu radši na dùm moc nešahal, ještì zavolá drába!
+
+Tak na tomhle domì je vidìt, e se majitel má asi dobøe. Nemùeš si pomoci, ale celı dùm ti pøipomíná krásnì vypasené prasátko. Asi to bude tou barvou.
+
+Asi není dobrı nápad pøes ty vrata lézt.
+
+Vrata vedoucí na dvùr nejvypasenìjšího domu ve vesnici. Jsou velké proto, aby se toho dovnitø vešlo co nejvíc, to je jasnı.
+
+Vrata nemluví.
+
+Stojíš na návsti mezi krásnımi malebnımi domeèky. Vlevo se do vıše tyèí místní kostel. Uprostøed návsti je nejvıraznìjší rùovı velkı dùm. Jeho majital asi chudı nebude. Na sever vede cesta do údolí.
+
+V dálce vydíš rozcestník, bohuel i pøes velké mnoství mrkvièky, co tì maminka nutila jíst, nejsi schopen na takovou dálku pøeèíst, co je na nìm napsáno.
+
+Dìdova chaloupka.
+
+Stojíš pøed dìdovou chaloupkou. Vpravo vede pìšina ke kurníku.
+
+Dveøe k dìdovi do svìtnièky.
+
+Mohla by to bıt krásná romantika, sedìt tu na lavièce a pozorovat hvìzdy. Radìji si ale jdi odpoèinout rovnou do postele za pec.
+
+Sed na zadnici?
+
+Jak dlouho si chceš odpoèinout?
+
+ètvrt hodinky
+quarter of an hour
+hodinu
+a hour
+Lavièka. Na odpoèinek na èerstvém vzdoušku naprosto ideální.
+
+Na lavièku jde pouít akorát zadnice.
+
+Bohuel dìda zjistil, e jsi se hrabal v jeho vìcech. Nemáš jinou monost ne odejít...
+
+Krásnì jsi si odpoèinul. Vstát mùeš, a se ti bude chtít.
+
+Zeï je lehce vlhká. To je holt údìl starıch domkù, nebo e by málo sluníèka?
+
+Støecha domu je ze slámy. To by mì zajímalo, co vydrí.
+
+Stojíš vedle dìdova domku.
+
+A helemese, ebøík!
+
+Tos uhodl, urèitì se budu tahat s ebøíkem. Nevíš, na co bych ho proboha mohl potøebovat?
+
+Hmm, mno. Moná bych se mohl podívat na pùdu...
+
+Dìdùv domek má vchod na pùdu. Nejspíš tudy vstupuje seno do zdlouhavého procesu sušení a skladování. Jak je vidìt, zadní stìna není urèena pro návštìvy. Potøebovala by toti skuteènì novou fasádu.
+
+Králíkárna. Bohuel nebotík králík po sobì nezanechal ádné další potomky.
+
+Záhon. Zde si dìda pìstuje èerstvou zeleninu. Protoe jedinì zelenina ze zahrádky mùe dodat tu správnou energii.
+
+Nacházíš se za dìdovım domem na zahradì. Je tu králíkárna a záhon a mnoho dalších náleitostí, které na správnı dvorek patøí. Ehm, teda moc u tady toho není, ale pššt!
+
+Pozór! Lezuuu!
+
+Tohle jablíèko je pøíliš vysoko!
+
+Krásné èervené jablíèko.
+
+Proè bych mìl lézt na pùdu?
+
+A dìláš co dìláš, na pùdu se holıma rukama nevyškrábeš.
+
+Rád by sis pokecal s králíkem, bohuel pro tebe tam ádnı není.
+
+To do králíkárny nepatøí!
+
+Po bliším prozkoumání králíkárny jsi usoudil, e je skuteènì prázdná.
+
+Tohle zasadit nejde!
+
+A helemese, krásná mrkvièka, tak tu si hned utrhnu! Zdravá strava pøeci musí bıt!
+
+Další mrkev u nepotøebuju.
+
+Špetka sena, která vypadla z pùdièky, tam se jí bude asi sušit více.
+
+Tam nic není.
+
+Dveøe, co vedou ven pøed baráèek.
+
+Co si pøeješ s kostìtem udìlat?
+
+Zamést
+Sweep
+Vzít koštì
+Take broom
+Koštì na zametání a vymetání...
+
+Není zcela vhodné, abys prohledával dìdovu skøíòku, kdy se dìda kouká!
+
+Skøínka nejspíš obsahuje dìdovy osobní vìci a cennosti, které není dobré nechat válet po místosti, aby se neøeklo, e je tu bordel, nebo aby hned nezmizely?
+
+Kdepak, ádnı tajnı sejf.
+
+Ah, a se zastavuje dech. Obraz dìdy a jeho neboky eny tesnì po svatbì. Tedy øeknu vám, byl to skuteènì fešák!
+
+Pokud chceš mluvit s dìdou, promluv s jeho skuteènou podobou!
+
+Pokud by byl karneval, moná bys pøemıšlel o tom, vzít si to na hlavu, ale jinak bych to nechal radši na stìnì.
+
+Tato trofej zde visí ji notnou dávku let, kdy se ještì dìda prohánìl po lese jak laò. Bohuel tahle laò se prohánìla pomaleji ne dìda...
+
+Nebo e by to byl jelen?
+
+Vzhledem k tomu, e tohle zvíøe u pár let neije, u ani nemluví. Mezi námi, nejspíš by nemluvilo ani pøedtim.
+
+Ve skøíni je dìdovo obleèení. Vzhledem k tomu, e nic z jeho šatníku nepotøebuješ, nemáš potøebu se tam ani moc hrabat. Navíc je to neslušné.
+
+Ve skøíni je s nejvìtší pravdìpodobností dìdovo obleèení.
+
+V tom haraburdí se hrabat nebudu. Není to moje.
+
+Na skøíni je zmì nìjakého nepodstatného haraburdí.
+
+To je nìjakı rejè nebo co. To nepotøebujem.
+
+Chceš se trochu prospat na peci?
+
+Šup na pec
+
+Bıt vzhùru
+Stay awake
+Krásnì høeje. Prospíš se na ní, ale a bude noc. Teï bys byl jak línej Honza z pohádky.
+
+Pec dodává místnosti krásnou teplou atmosféru. Navíc slouí jako tvé úloištì ke spánku. Není nad spánek na høejivé peci.
+
+Co chceš s polínkem udìlat?
+
+Pøiloit
+
+Zapálit
+
+Vloil jsi hoøící pochodeò do kamen.
+
+Tohle bych nepálil.
+
+Vdy u jedno máš.
+
+Vzhledem k tomu, e máš hoøící pochodeò, není rozumné brát další døevo, nerad bys rozpoutal celosvìtovı poár.
+
+Sebral jsi polínko.
+
+Košík se døevem urèenım primárnì do kamen.
+
+Vrátil jsi polínko zpìt do košíku.
+
+Myslím, e dìda nestojí o naèechrání peøiny, i kdy by to tøeba bylo jakımsi projevem úcty, ale radši ne.
+
+Dìda si hezky chrupká pod peøinou.
+
+Dìdova postel, peøina z pravého peøí je poøádnì nadıchaná. To je pelech sakryš. Dìda si tam chodí kadı veèer prospat.
+
+Na jednu stranu by to bylo urèitì super pøekvapení, a by dìda pod peøinou objevil tohle, ale radši si to nech.
+
+Kdepak, kdepak, ádné posedávání, hrdino, vstávat a hurá za dobrodrustvím!
+
+Lavice pro zákazníky nebo babky koøenáøky, kdy pøijdou na pokec k dìdovi.
+
+To jsou dìdovy pantofle. Nech mu je. I kdy je pravda, e by si jako správnej švec umìl obratem ruky ušít nové, ale pøeci jen, ruku na srdce, co bys s nimi dìlal? Na sezení v pantoflích u houpacího køesla máš ještì dost èasu.
+
+Pod lavicí jsou dìdovy pantofle.
+
+To bych do boty nestrkal.
+
+To je dìdovo místo.
+
+idle.
+Chair.
+To jsou dìdovy boty, na co by ti byly?
+
+Dìdovy boty.
+
+Nacházíš se v útulné chaloupce dìdy - tvého zachránce. Uprostøed je velkı stùl, kde dìda rád sedí. Pak je tu taky postel s duchnou velkou jak mrak a velká pec.
+
+Chceš zavøít skøínku?
+
+Ve skøínce u není nic, co by sis mohl pøivlastnit!
+
+A hele, ve skøínce jsou nìjaké penízky, ty by se mohli hodit...
+
+Skøínka obsahuje hromadu osobních dìdovıch vìcí. Jeslti chceš najít nìco potøebného, musíš se podívat lépe.
+
+Nejdøív se tam poøádnì podívej, je tam hromada krámù...
+
+Sebral jsi 20 zlatıch!
+
+Velkı modrı hrnek.
+Big blue cup.
+Na stole je dìdovo haraburdí, které pouívá pro svou ševcovskou práci.
+
+Nic z toho, co je na stole pravdìpodobnì vùbec nebudeš potøebovat, proto to tu radìji nechej (a navíc je to moc na ránì, èmajznout to dìdovi pøímo ze stolu)
+
+Dobrá, vrátíme koštì tam, kam patøí.
+
+\"Zabít zlého ducha chtìl,[kde mìl nù však nevìdìl.[A tak leí v hrobì sám,[ke své rakvi pøipoután!\"
+
+Brrr!
+
+\"Obìšencùv vrch\" nese cedule smìøující nahoru.[\"Kobka králù\" zní nápis smìøující ke kobce napravo.[\"Zámek\" ukazuje smìrem, kterım v dálce vidíš co jiného, ne zámek. Zajimávı ukazatel.
+
+Teï se nemùeš v nièem hrabat, kdy tu lítá taková potvora.
+
+Heh, snad necheš hledat jehlu v kupce sena?!
+
+Jsi si skuteènì jist, e mám v tıhle obøí hromadì hledat jehlu?!
+
+Né, to nemùe byt pravda! Jak mam v takovıhle obrovitananánsky hromadì najít maloulinkaouèkou jehlu?
+
+Dobrá, dobrá, podívám se...
+
+Nic.
+Nothing.
+Zkusím se podívat ještì tady takhle...
+
+Zase nic!
+
+Ještì by mohla bıt tady...
+
+Hmm, tam taky nic..
+
+A u toho mám dost, poslední místo, kde mùe bıt, je jedinì tady!
+
+Tramtadadá!
+
+Ne, díky, ještì teï mì od té suché trávy píchá celej èlovìk. U se v tom hrabat nebudu.
+
+Moc se radši nerozhlíej, nebo z toho ebøíku slítneš!
+
+Moná by to byla krásná útulná pùdièka, nebıt tady té lítající ohnivé koule!
+
+Krásná útulná pùdièka.
+
+Jako kadá správná poctivá pùda i tady je k vidìní správnì usušené seno. A krásnì voní.
+
+Musíš lépe míøit!
+
+U jsi tady vymetl vše, co bylo potøeba. A pavouèka nechej ít!
+
+Vypadá to, e pavouèek relaxuje...
+
+Radši na nìj moc nešmatej, co kdyby tì kousnul.
+
+Bohuel, tenhle pavouèek asi nemluví. \"Haló, pane pavouku!\"[Nic.
+
+Nech pavouèka ít, je hodnej.
+
+Jakmile jsi vstoupil na poslední pøíèku ebøíku a upøel svùj pohled na pùdu, zjistil jsi, e nìco není skuteènì v poøádku.
+
+Místností se zbìsile prohání ohnivá koule a všude je cítit silnı zápach síry! Jen aby tu nìco nechytlo! To by byl konec!
+
+Zamèeno. Asi to bude chtít pokoj pronajmout...
+
+Brrr nìkdo to zapomìl po sobì uklidit! Na ten radši šahat nebudu.
+
+A heleme se, pod postelí je noèníèek.
+
+To u jsi na tom tak špatnì, aby sis povídal s pípou?
+
+Lepší bude si o to øíci hospodskému.
+
+Pípa. Odtud teèe ten lahodnı mok. Ikdy, nejseš si jist, zda-li se dá nazıvati lahodnım i v této krèmì.
+
+Pivo se toèí vıhradnì do místních korbelù!
+
+Tvé pivo.
+
+Není to tak špatné...
+
+U je to prázdné...
+
+Lahve èehosi. Pravdìpodobnì to bude místní kvalitní víno nejvyšší jakosti.
+
+To je korbel na pivo. Také se dá vyuít k posilování loketních svalù.
+
+Od toho je tady hospodskı.
+
+To je bar.
+This is a bar.
+No tak, snad se nebudeš válet po baru?
+
+Nacházíš se u vıèepu v místní krèmì. Jak vidíš, je zde širokı vıbìr nápojù a milá obsluha.
+
+Nacházíš se u vchodu z lesa. Vane zde pøíjemnı vánek s vùní trávy. Smìrem na jih pøed sebou vidíš údolí.
+
+Abys øekl pravdu, moc se ti na paøez sedat nechce. Obyèejnì takovéto akce konèí zadnicí od smùly.
+
+Paøez.
+
+\"Haló, paøeze!\"
+
+Kùru bøízy myslím nepotøebuješ.
+
+Krásná silná bøíza.
+
+Jsi uprostøed lesa. Nikam jinam ne po pìšince se tady jít nedá.
+
+Nacházíš se na rozcestí v leste. V dálce vidiš dìdovu chaloupku a matnì si vzpomínáš zdali náhodou dìda neøíkal, aby jsis dával v lese pozor, nebo tak nìco.
+
+credits loaded
+credits loaded
+1997 - 2014
+1997 - 2014
+[
+
+Martin Èermák
+
+[[[[[
+
+Námìt a scénáø
+Story and screenplay
+Skripty
+Scripts
+Grafika
+Graphics
+Marek Èermák
+
+Hudba
+Music
+Jiøí Šeøák
+
+Karel Antonín
+
+Scott Joplin - The Entertainer
+
+E.H.Grieg - Anitra's Dance
+
+Joshua Bell - Song to the Moon from Rusalka
+
+Per-Olov Kindgren - J. S. Bach:
+
+BWV 1007 \"Prelude in D\"
+
+Betatesteøi
+Betatesters
+Kamila Stloukalová
+
+Web
+Web
+www.draci-zub.cz
+www.dragonsfangadventure.com
+Vyvinuto v prostøedí Adventure Game Studio
+
+1995 - 2011 by Chris Jones
+
+[[
+
+Pouité pluginy
+Used plugins
+Flashlight plugin, Verze 2.0
+
+16.1.2009 by monkey_05_06
+
+Credits plugin, Verze 1.19
+
+26.10.2007 by SSH
+
+Zvláštní podìkování
+Special thanks
+Lori Ann a Corey Cole
+
+...a všem, kteøí se mnou trávili
+
+chvíli rozjímání nad hrou
+
+poslední podìkování patøí i Vám
+
+za zahrání si...
+
+Bylo nebylo...
+
+Za devatero lesy a devatero horami ila jedna slušná a poctivá rodina.
+
+Dlouho nemohli mít potomka, a tak se kadı den modlili k Pánu Bohu.
+
+Jejich pøání bylo naštestí vyslyšeno, a tak se jim narodil syn, kterému dali jméno %s.
+
+Nad kolébkou se mu sešly tøi sudièky, aby mu, jak je zvykem, pøedpovìdìly, co ho v ivotì èeká.
+
+Ta první, nejmladší sudièka, pravila:
+
+\"Tvùj ivot bude neobyèejnì pestrı. Budeš dobrım èlovìkem a budeš pomáhat všem lidem ze svého okolí.\"
+
+Druhá sudièka pravila:
+
+\"Svìt není nikdy spravedlivı, kadı dobrı skutek musí bıt po zásluze potrestán. Za tvé dobro tì neèeká nic dobrého.\"
+
+A nakonec poslední, nejmoudøejší ze sudièek, pravila:
+
+\"Ale notak sestro, pøece nebudeš tak zlá, tento mladı mu bude nakonec pøeci jen odmìnìn, bude slavnı a bohatı.\"
+
+\"Jen si to musí zaslouit..\"
+
+A tak bylo pøedpovìzeno.
+
+Mladı mu rostl jako z vody. Rodièe ho vychovávali, jak nejlépe mohli.
+
+Nakonec ale i je èekalo smutné louèení - syn vyrostl a vydal se do svìta.
+
+Putoval širım svìtem a pøespával, kde se dalo...
+
+Jednou ho však zastihla neobyèejnì silná bouøe...
+
+V tuto chvíli to s naším hrdinou vypadalo velice špatnì...
+
+Vysílenı a promoèenı upadl do bezvìdomí.
+
+Ale najednou...
+
+Vstávej!
+Wake up!
+Tak haló, mladíku!
+
+To jsem v nebi? pomyslel sis. Leí se mi tu tak pìknì... \"Zdravím vás, Svatı Petøe!\"
+
+Ale prd! Seš u mì v chalupì! Našel jsem tì v lese. Málem si se utopil v bainách, byla šílená bouøka!
+
+Tvé sténání jsem slyšel a sem, nedalo se u toho pracovat!
+
+\"A kdo jste?\", zeptal jsi se...
+
+To bys mnì spíš mìl øíci ty, mladíku!
+
+\"Dobrá, jmenuji se %s\", odvìtil jsi...
+
+Tak to tì tady opravdu vítám! A teï šup, vypadáš u dobøe, vyskoè z postele a dej se do práce, pøece tì tu nebudu ubytovávat zadarmo...
+
+uvádí
+presents
+èeskou adventuru
+classic adventure game

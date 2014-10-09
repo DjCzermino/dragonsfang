@@ -22,3 +22,4 @@ import function EndGame(int type, String msg);
 import function PlayBgMusic(AudioClip *music);
 import function GoToMenu();
 import function ShowIconBar(bool show);
+import bool IsHandheld();
