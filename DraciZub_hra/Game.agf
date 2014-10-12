@@ -54,7 +54,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <ThoughtGUI>0</ThoughtGUI>
       <BackwardsText>False</BackwardsText>
-      <MaximumScore>0</MaximumScore>
+      <MaximumScore>20</MaximumScore>
       <HasMODMusic>False</HasMODMusic>
       <GameExplorerEnabled>False</GameExplorerEnabled>
       <Description />
@@ -1498,15 +1498,15 @@
             <Name>btnRestart</Name>
           </GUIButton>
           <GUILabel>
-            <TextAlignment>TopLeft</TextAlignment>
+            <TextAlignment>TopRight</TextAlignment>
             <TextColor>33280</TextColor>
             <Font>0</Font>
             <Text xml:space="preserve">Draci Zub</Text>
             <Height>13</Height>
             <Locked>False</Locked>
-            <Width>56</Width>
-            <Left>130</Left>
-            <Top>53</Top>
+            <Width>100</Width>
+            <Left>82</Left>
+            <Top>52</Top>
             <ZOrder>18</ZOrder>
             <ID>18</ID>
             <Name>Label4</Name>
@@ -8138,7 +8138,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1998-06-26 06:29:06Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1998-06-26 22:29:06Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound10.wav</SourceFileName>
@@ -8150,7 +8150,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-10 04:08:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-10 20:08:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound11.wav</SourceFileName>
@@ -8162,7 +8162,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 14:12:40Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 22:12:40Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound12.wav</SourceFileName>
@@ -8174,7 +8174,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-04-20 05:30:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-04-20 21:30:50Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound13.wav</SourceFileName>
@@ -8186,7 +8186,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-04-20 05:30:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-04-20 21:30:50Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound14.wav</SourceFileName>
@@ -8198,7 +8198,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2001-02-17 22:18:24Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2001-02-18 06:18:24Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound15.wav</SourceFileName>
@@ -8210,7 +8210,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 00:53:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 08:53:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound16.wav</SourceFileName>
@@ -8222,7 +8222,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-18 01:42:30Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-18 17:42:30Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound17.wav</SourceFileName>
@@ -8234,7 +8234,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-12-25 03:53:34Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-12-25 11:53:34Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound18.wav</SourceFileName>
@@ -8246,7 +8246,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 00:53:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 08:53:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound2.wav</SourceFileName>
@@ -8258,7 +8258,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2000-03-08 07:00:00Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2000-03-08 15:00:00Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound3.wav</SourceFileName>
@@ -8270,7 +8270,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-06 11:28:22Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-07 03:28:22Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound4.wav</SourceFileName>
@@ -8282,7 +8282,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-08-08 18:46:50Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-08-09 10:46:50Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound5.wav</SourceFileName>
@@ -8294,7 +8294,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-06 11:35:18Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-07 03:35:18Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound6.wav</SourceFileName>
@@ -8306,7 +8306,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-04-08 08:02:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-04-09 00:02:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound7.wav</SourceFileName>
@@ -8318,7 +8318,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 14:14:58Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 22:14:58Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound8.wav</SourceFileName>
@@ -8330,7 +8330,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>1999-03-04 14:12:36Z</FileLastModifiedDate>
+                <FileLastModifiedDate>1999-03-04 22:12:36Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>sound\sound9.wav</SourceFileName>
@@ -8342,7 +8342,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2009-09-10 02:46:45Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2009-09-10 18:46:45Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\zaplaceno.wav</SourceFileName>
@@ -8354,7 +8354,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 15:55:49Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-01 23:55:49Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\put.wav</SourceFileName>
@@ -8366,7 +8366,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 16:29:55Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-02 00:29:55Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\toci_pivo.wav</SourceFileName>
@@ -8378,7 +8378,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 16:38:58Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-02 00:38:58Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\vypil_pivo.wav</SourceFileName>
@@ -8390,7 +8390,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 16:39:45Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-02 00:39:45Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\mlynske_kolo.wav</SourceFileName>
@@ -8402,7 +8402,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-01 18:33:52Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-02 02:33:52Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\wind.wav</SourceFileName>
@@ -8414,7 +8414,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-08-08 10:46:12Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-08-09 02:46:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\hrom.wav</SourceFileName>
@@ -8426,7 +8426,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2013-02-03 14:47:01Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2013-02-03 22:47:01Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName>C:\Users\Martin\Documents\DraciZub_hra\Sound\blesk.wav</SourceFileName>
@@ -8438,7 +8438,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2005-08-08 06:46:46Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2005-08-08 22:46:46Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\krb_polinko.mp3</SourceFileName>
@@ -8450,7 +8450,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-08 06:24:15Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-08 22:24:15Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\snore-right.mp3</SourceFileName>
@@ -8462,7 +8462,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-08 06:26:19Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-08 22:26:19Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\snoring-right.mp3</SourceFileName>
@@ -8474,7 +8474,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-08 06:25:12Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-08 22:25:12Z</FileLastModifiedDate>
               </AudioClip>
               <AudioClip>
                 <SourceFileName xml:space="preserve">C:\Users\Martin\Documents\DraèíZub\Draèí zub_data\Zvuky\pochoden.mp3</SourceFileName>
@@ -8486,7 +8486,7 @@ See KeyboardMovement.txt for details.
                 <DefaultVolume>-1</DefaultVolume>
                 <DefaultPriority>Inherit</DefaultPriority>
                 <DefaultRepeat>Inherit</DefaultRepeat>
-                <FileLastModifiedDate>2014-10-08 05:53:18Z</FileLastModifiedDate>
+                <FileLastModifiedDate>2014-10-08 21:53:18Z</FileLastModifiedDate>
               </AudioClip>
             </AudioClips>
             <AudioClipFolder>
