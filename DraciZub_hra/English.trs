@@ -71,7 +71,7 @@ You've said hello.
   Na jihu údolí je vesnice. Znáš to, pár domù a kostel. Vedle ní je høbitov. Uprostøed údolí je Nerybí jezero. A víš proè nerybí? Protoe tam nejsou ádnı ryby.
   To the south, there is a village. Some houses and a church, you know. Next to it, there is a cemetery. In the middle of the valley, there is Fishless Lake. Do you know why? Because there are no fish in it.
   Bydlí v nìm vodník Venca. Teèe do nìj, myslím do toho jezera, øeka Hupsalka. Na vıchodì je mlın a na západì je mìsto a zámek.
-  A vodník, Venca, lives in it. And the Hoppy River flows into it, to the lake, I mean. To the east, there is mill, and the town and the castle are to the west.
+  A vodnk, Venca, lives in it. And the Hoppy River flows into it, to the lake, I mean. To the east, there is mill, and the town and the castle are to the west.
   No a na severu v horách prı bydlí zlı drak, kterı se kadou chvílí chystá znovu zaútoèit. Také jsem zaslechl, e jsou v horách i trpaslíci, ale ty jsem nikdy nevidìl.
   In the northern mountains is said to live an evil dragon, which is going to attack again soon. Also I've heard there are dwarves in the mountains, but I've never seen them.
   Dále je tu ještì spoustu jinıch, velmi zajímavıch míst, ale vybral jsi si špatného poradce, já se stále ptám, jestli víš proè a protoe a tak dále a furt kecám a nic ti neøeknu, protoe jsem to všechno zapomnìl.
@@ -137,7 +137,7 @@ Say hello
 Ahoj
 Hello
 D/7m si pivo
-
+I'd like a beer
 Najmout pokoj
 Rent a room
 Kr/3ma
@@ -157,37 +157,37 @@ Whadda want?
 Dobrá.
 Yes sir.
 Hele mladej, bez penìz do hospody nelez.
-
+Hey boy, no money - no drink.
 Jedno u si dostal mladej! Jesli chceš další, tak ho tam musíš nejdøív kopnout!
-
+You've already got one, boy! Drink it first!
 Chceš si najmout pokoj? Stojí pìt zlatıch!
-
+You want to rent a room? It costs five coints.
 Nemám èas na vásty!
-
+I don't have time to chat.
 Krèma tu stojí u od nepamìti, zaloil ji mùj dìd. Schází se tu veškerá smetánka našeho mìsta na naše nejlepší pivo.
-
+The tavern stands here from time immemorial, it was built by my grandfather.
 Také pronajímáme pokoje, které jsou nahoøe.
-
+We also rent the rooms upstairs.
 No, co bych ti k tomu øekl...
-
+Well, what to say about it...
 ijeme si tu vcelku dobøe, ale poslední dobou se nese mìstem zpráva, e je náš pan král tìce nemocen.
-
+We live quite well, but recently, a new is spreading, that our king is seriously ill.
 Moc toho nevím, snad jen to, e náš král onemocnìl neznámou nemocí na kterou není ádnı lék.
-
+I don't know much, only that our king has an unknown disease without a cure.
 U u nìj bylo mnoho apatikáøù a šarlatánù ale nikdo mu zatím nepomohl.
-
+Many doctors and apothecaries tried to help with, but with no success.
 Král pøislíbil pùl království tomu, kdo ho zachrání ale zatím se nikdo nenašel...
-
+He has promised a half of the kingdom to one who would save him, but nobody has been found yet... 
 Mladı mui, jak je moné, e jsem dnes ráno našel svou skøínku otevøenou?!
-
+Young man, how is it possible I found this morning my locker open?!
 Pokusil jsi se dìdovi vysvìtlit, e vlivem jeho vyššího vìku je moná pravdìpodobné, e si svou skøínku zapomnìl zavøít sám.
-
+You've tried to explain the old man that due to his old age, it is probable that he himself has forgotten to close it.
 Ale kdepak! To ti neuvìøím! Takhle ses mi chtìl odvdìèit za moji dobrotu?
-
+No way! I don't believe you! So this is the reward for my kindness?
 Pokusil jsi se ze sebe vyhrnout nìkolik prvních slov své sáhodlouhé omluvy, ale...
-
+You've tried to blurt out the first words of your lengthy excuse, but...
 Nic na mì nezkoušej! Má dùvìra je ztracena. Sbal se a... a u tì tu nechci vidìt!
-
+Don't try anything! You've lost my trust. Pack and... get out of my sight!
 Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
 
 %c
@@ -287,7 +287,7 @@ DEFAULT
 Jeiš né!
 Jesus, no!
 ANO pøeji
-
+Of course
 Uloit
 Save
 Nahrát
@@ -301,7 +301,7 @@ CONTINUE
 Rychle pryè
 Leave fast
 Tak né, no
-No, of course
+No way
 Nová hra
 New game
 Draèí Zub
@@ -460,14 +460,18 @@ x
 
 %s %dÍ
 
-Skóre %d/%d
-Score %d/%d
-Draèí Zub Verze %s, Èas:
-Dragon's Fang Version %s, Time:
+%s %d/%d
+
+Skóre
+Score
+Draèí Zub Verze
+Dragon's Fang Version
+Èas
+Time
 Nevím, kdo to je.
 I don't know who he is.
 Radìji nesahat.
-
+Don't touch.
 Nech si to u sebe.
 Keep it with yourself.
 ádná odpovìï..
@@ -575,17 +579,17 @@ Money pouch, there are four coins.
 Mìšec s penìzi. Máš v nìm %d zlatıch.
 Money pouch. You have %d coins.
 Klíè od pokoje ve mìstì.
-
+The key to the room in the town.
 Vrátil jsi klíè barmanovi.
-
+You've returned the key to the barkeeper.
 Co by s tím dìlal?
-
+What would he do with it?
 Hospodskı. Dokud si od nìj nìco nekoupíš, nevypadá zrovna pøátelsky.
-
+The barkeeper. Until you buy something from him, he will look unfriendly.
 Nešahat!
-
+Don't touch!
 To je pan mlynáø.
-
+This is mister miller.
 Polínko do kamen.
 A log for the stove.
 Krásné èerstvé šavnaté jablíèko.
@@ -617,7 +621,7 @@ A castle, village, cemetery, mill, lake and much more! But you have to wait for 
 Dìkujeme, e jste si zahráli adventuru Draèí Zub DEMO!
 Thanks for playing Dragon's Fang DEMO!
 Koštì na zametání a vymetání... Nezapomìò ho vrátit, a udìláš, co je tøeba..
-
+A broom for sweeping up and out... Don't forget to return it, after you did what's necessary...
 Krásná èervená mrkev.
 Nice red carrot.
 Draci Zub
@@ -663,7 +667,7 @@ Yes I want
 Jezis nee
 Nooo
 Pod jakym nazvem bude Vase draci dobrodruzstvi uchovano?
-
+By what name is this dragon adventure going to be stored?
 Ulozit
 Save
 Zpet
@@ -671,15 +675,15 @@ Back
 Smazat
 Delete
 Jake dobrodruzstvi chcete ozivit?
-
+Which adventure do you want to restore?
 Nahrat
 Restore
 Rychle pryc
-
+Quit rapidly
 Tak ne, no
-
+Alright, no
 Skutecne si prejete opustit hru?
-
+Do you really want to leave the game?
 Nova hra
 New game
 Pokracovat
@@ -881,423 +885,423 @@ Just take the handle.
 Bohuel, netrvalo dlouho a ztratil jsi se v temném lese.. U o tobì nikdy nikdo neslyšel.. KONEC
 It didn't take long for you to get lost in the dark forest... Nobody's ever heard of you since then... THE END
 Pøed tebou se rozléhá krásné malebné údolí, kterému dominuje místní královstvíèko. Aby mohlo královstvíèko vùbec existovat, potøebuje nìjaké poddané v podobì obyvatel ve vesnici.
-
+A beautiful scenic little valley appears before you, being dominated by a small kingdom. For the kingdom to exist, it needs some serfs in the residents in the village.
 Copak ty také patøíš k té skupinì vandalù, co si domù odnášejí znaèky a cedule?
-
+Are you really one of the vandals who steal signs and notices?
 Severovıchodním smìrem se nachází královstvíèko. Na jihu údolí je vesnice. Na sever je les. Nue velice struènı informativní ukazatel.
-
+To the northeast, there is a small kingdom. On the south, there is a village. Forest is to the north. What an informative sign.
 Cedule nemluví, ty se ètou.
-
+Signs don't talk, signs are read. 
 Pokud si chceš nabrat vodu, musíš jít blí k jezeru.
-
+You need to be closer to take up water.
 Jezero.
 Lake.
 bluòk!
 Splash!
 Pokud máš zájem nìco utopit, musíš jít blí.
-
+If you want to drown something, you need to be closer.
 Toto stavení svım vzhledem pøipomíná mlın. Poznal jsi to pøedevším z mlınského kola umístìného na levoboku.
-
+This building is quite similar to a mill. You've probably recognized it from the mill wheel on the left. 
 Náves s kostelem.
-
+A square with a church.
 Jesli chceš øíct nìco nìkomu z vesnice, asi by to chtìlo tam zajít osobnì.
-
+If you want to talk with somebody from the village, you should go there personally.
 Dalších pár baráèkù co spadají do územního plánu vesnice. Po lehkém zlhédnutí nemáš potøebu navštìvovat a obtìovat další lidi svımi hrdinskımi manıry.
-
+More of small houses belonging to the zoning plan of the village. You take a look and don't feel any other need to go there and bother them with your heroic manners.
 Jako kadı kraj i zde je potøeba tu a tam nìkoho pohøbít. K tomuto úèelu bohatì staèí místní høbitov.
-
+Every country sometimes needs to bury somebody. The cemetary should suffice.
 Tam si asi s nikym moc nepopovídáš.
-
+You aren't going to talk to anybody there.
 Tohle pod drn nepatøí.
-
+This shouldn't be buried.
 Na jihozápadì údolí pøechází les v podivnou krajinu kde bys teko hledal ivou dušièku. Ehm. ivou dušièku, která by tì zrovna nechtìla serat!
-
+On the southwest of the valley starts to appear a weird landscape without a living soul. I mean, a living soul that won't eat you!
 Jak se do lesa volá, tak se z lesa ozıvá.
-
+Don't shout in the forest.
 Les na severozápadì vypadá jako jedna velká baina. Nejspíš je to dáno táním snìhu z hor. Nebo e by to byla baina nepøírodního charakteru? V kadém pøípadì by to správnı hrdina mìl provìøit.
-
+The forest on the northwest looks like a big swamp. It's probably caused by melting of the snow from the mountains. Or could it have an unnatural cause? In any case, a true hero should investigate it. 
 Hory, ty se nehnou kamaráde.
-
+Mountains aren't going to move.
 Na severu údolí vidíš v dálce mohutné pohoøí jeho vrcholky jsou pokryty snìhem. Dodávají krajinì tu správnou atmosféru. Snad nebudeš muset šplhat a nahoru na horu.
-
+On the north of the valley, you see a mighty mountain range with snow-covered tops. They add the right atmosphere to the landscape. Hope you won't need to climb up there.
 Pokud máš zájem o šišku, musíš jít do lesa.
-
+If you need a cone, go to the wood.
 Les.
 Wood.
 V tomto lese ije dìda a i jiná havì.
-
+In this wood lives the old man and other monsters.
 Jak se do lesa volá, tak se z lesa ozıvá!
-
+Don't shout in the forest.
 Pokud máš zájem o nìjakı ten královskı suvenır, budeš si asi muset zajít na zámek. Takle z dálky to nejde.
-
+If you need some royal souvenir, you should go to the castle, not try to reach it from this distance.
 Královstvíèko, které urèitì potøebuje nìjakého toho hrdinu. Co jiného bys tady pøece jinak dìlal.
-
+A small kingdom, that certainly needs a hero. What other purpose would you have here?
 Na pokec musíš jít na nádvoøí.
-
+You should go the courtyard for a chat.
 Ale notak, hledat jehlu mùeš jen ve své kupce sena. Co by si pan mlynáø pomyslel!
-
+You should look for a needle in your own hay. What would mister miller think?
 Kupka sena.
-
+A heap of hay.
 Nevím nevím, zdali se chceš tahat s tekym sudem.
-
+This barrel is too heavy to be carried around.
 Sud kulatı rys tu pije.. Ehm tedy, jak tak koukám, ádnı rys tu není, tak budu radší zticha.
-
+This barrel is quite silent for a barrel.
 Ikdy je to jen sláma, pøesto není tvoje nıbr pana mlynáøe, kterı si ji tady suší na horší èasy.
-
+Although it is just a straw, it doesn't belong to you. The miller dries it here for bad times.
 Pan mlynáø si suší na pùdì slámu, jak rafinované.
-
+Mister miller dries straw in the garret. Fascinating.
 Mlynáøovic chalupa je vcelku pìkné stavení.
-
+The miller's house is quite a nice building.
 Takovou práci to dalo ho roztoèit, take vskutku nemáš zájem ho zase zastavovat.
-
+You don't want to stop it, given what effort it took to spin it.
 Holıma rukama roztoèit nejde.
-
+You can't spin it with bare hands.
 Parádièka, mlınské kolo se toèí.
-
+Finally, the mill wheel is spinning.
 Pokud se domníváš správnì, mìlo by se tohle toèit, tak kde je problém?.
-
+If you remember it correctly, this should be spinning. So where's the problem?
 Áááh ano, chybí tu voda!
-
+Oh, of course, the water is missing!
 Takle to kolo rozhıbat nejde.
-
+This wheel can't be moved.
 Nálevka, kterou teèe voda na mlınské kolo.
-
+A gutter which runs the water through.
 Radši tam nic neházej!
-
+Don't throw anything there!
 Nacházíš se u mlynáøe pøed domem. Baráèek je vskutku hezkı. Pìšinou vlevo se dostaneš zpìt do údolí.
-
+You find yourself in front of the miller's house. Quite a nice building. The road on the left leads back to the valley.
 Mlınské kolo se krásnì toèí, take se vše zdá v naprostém poøádku.
-
+The mill wheel is spinning. Everything seems to be in order.
 Jedna vìc tu ale nehraje. Mlınské kolo se netoèí.
-
+Something is wrong here. The mill wheel isn't spinning!
 Stojíš pøed hradní bránou, která smìøuje pøímo na nádvoøí. Hrady jsou z masivního pískovce. Hradní brána se na noc zavírá aby bylo mìsto ochránìno pøed všemonou havìtí, která tu slídí všude kolem.
-
+You find yourself in from of the castle gate, that leads directly to the courtyard. The walls are from dense sandstone. The gate is closed during night to protect the town from all monsters sneaking outside.
 Tady tì mùou slyšet tak akorát stráe, take sis pokøikování radši rozmyslel.
-
+Only guards can hear you here.
 Hradní brána je otevøena
-
+The castle gate is open.
 Hradní brána je zavøena. Nojo, ale jak teï do mìsta?
-
+The castle gate is closed. But how can I get now to the town?
 \"Sezame otevøi se!\"
-
+\"Open Sesame!\"
 Les obklopuje celé království.
-
+The wood surrounds the whole kingdom.
 Zdá se, e nikdo neslyší...
-
+Nobody's listening.
 Dveøe smìøující do kostela. Jsou vyrobeny z masivního dubového døeva aby se do kostela nevloupali Petrovští.
-
+The door leads to the church. It is made of massive oak wood to stop robbers from robbing the church.
 Takle tì nikdo neuslyší, musíš nejdøív zaklepat.
-
+You should knock first.
 Na dveøe platí jen lehce pokrèenı ukazováèek otoèenı špièkou smìrem k tobì vykonávající pohyb jako slepice, kdy zobe... Jynımi slovy staèí zaklepat.
-
+You start to think about various spells and tricks to use on the door, but you realize that it would suffice to knock.
 Poøádnı kostel nesmí chybìt v ádné vesnici aby mohli všichni zlobit a pak se mohli vyzpovídat a vše bylo zase v poøádku.
-
+Every proper village needs a church to sell indulgences.
 Dùm.
-House.
+A house.
 Vzhledem k tomu, jakı bude majitel asi lakomec bych mu radši na dùm moc nešahal, ještì zavolá drába!
-
+The owner of this house is probably a miser, you shouldn't mess with his house, or he will call guards!
 Tak na tomhle domì je vidìt, e se majitel má asi dobøe. Nemùeš si pomoci, ale celı dùm ti pøipomíná krásnì vypasené prasátko. Asi to bude tou barvou.
-
+This house tells of his owner that he is living better than the others. You can't help yourself, but it resembles a nice fattened pig. It's probably the color.
 Asi není dobrı nápad pøes ty vrata lézt.
-
+It's not a good idea to climb the gate.
 Vrata vedoucí na dvùr nejvypasenìjšího domu ve vesnici. Jsou velké proto, aby se toho dovnitø vešlo co nejvíc, to je jasnı.
-
+The gate leading to the courtyard of the most fattened house in the village. The need to be so big to let big things go through.
 Vrata nemluví.
-
+Gate's not listening.
 Stojíš na návsti mezi krásnımi malebnımi domeèky. Vlevo se do vıše tyèí místní kostel. Uprostøed návsti je nejvıraznìjší rùovı velkı dùm. Jeho majital asi chudı nebude. Na sever vede cesta do údolí.
-
+You are standing on a square with scening houses. To the left rises the local church. In the middle, there is a distinct big pink house. Its owner probably isn't poor. The path to the north leads to the valley.
 V dálce vydíš rozcestník, bohuel i pøes velké mnoství mrkvièky, co tì maminka nutila jíst, nejsi schopen na takovou dálku pøeèíst, co je na nìm napsáno.
-
+In the distance, you ses a signpost, but despite the amounts of carrot your mother used to force you to eat, you aren't able to read the text on it so far away.
 Dìdova chaloupka.
-
+The old man's cottage.
 Stojíš pøed dìdovou chaloupkou. Vpravo vede pìšina ke kurníku.
-
+You find yourself in front of the old man's cottage. On the right, a path leads to the henhouse. 
 Dveøe k dìdovi do svìtnièky.
-
+The door to the old man's chamber.
 Mohla by to bıt krásná romantika, sedìt tu na lavièce a pozorovat hvìzdy. Radìji si ale jdi odpoèinout rovnou do postele za pec.
-
+It would be romantic to just sit here and watch the starts, but you should rather go to sleep on the stove.
 Sed na zadnici?
-
+Take a sit?
 Jak dlouho si chceš odpoèinout?
-
+How long do you want to sleep for?
 ètvrt hodinky
-quarter of an hour
+quarter an hour
 hodinu
 a hour
 Lavièka. Na odpoèinek na èerstvém vzdoušku naprosto ideální.
-
+A bench. An ideal thing for rest on fresh air.
 Na lavièku jde pouít akorát zadnice.
-
+Only your bottom can be used on the bench.
 Bohuel dìda zjistil, e jsi se hrabal v jeho vìcech. Nemáš jinou monost ne odejít...
-
+Unfortunately, the old man has found you've been searching his possesions. You have no choice but to leave...
 Krásnì jsi si odpoèinul. Vstát mùeš, a se ti bude chtít.
-
+You had a nice break. Get up when you are willing to.
 Zeï je lehce vlhká. To je holt údìl starıch domkù, nebo e by málo sluníèka?
-
+The wall is a bit wet. The mark of old houses, or lack of sunshine.
 Støecha domu je ze slámy. To by mì zajímalo, co vydrí.
-
+The roof is from straw. You wonder what could it stand.
 Stojíš vedle dìdova domku.
-
+You are standing next to the old man's house.
 A helemese, ebøík!
-
+Oh look, a ladder!
 Tos uhodl, urèitì se budu tahat s ebøíkem. Nevíš, na co bych ho proboha mohl potøebovat?
-
+No, no, I am not going to carry the ladder around. What would I need it for?
 Hmm, mno. Moná bych se mohl podívat na pùdu...
-
+Well... maybe I could look to the garret...
 Dìdùv domek má vchod na pùdu. Nejspíš tudy vstupuje seno do zdlouhavého procesu sušení a skladování. Jak je vidìt, zadní stìna není urèena pro návštìvy. Potøebovala by toti skuteènì novou fasádu.
-
+The old man's house has an entrance to the garret. Here the hay enters the lengthy process of drying and stacking. The back wall doesn't seem to be intended for visits. It really needs new facade. 
 Králíkárna. Bohuel nebotík králík po sobì nezanechal ádné další potomky.
-
+A rabbit hutch. Unfortunately, the old rabbit didn't leave any offspring.
 Záhon. Zde si dìda pìstuje èerstvou zeleninu. Protoe jedinì zelenina ze zahrádky mùe dodat tu správnou energii.
-
+A garden bed. The old man grows here fresh vegetables. Only the vegetables from garden can provide energy the best.
 Nacházíš se za dìdovım domem na zahradì. Je tu králíkárna a záhon a mnoho dalších náleitostí, které na správnı dvorek patøí. Ehm, teda moc u tady toho není, ale pššt!
-
+You find yourself behind the old man's house in a garden. There is a rabbit hutch and many other things belonging to a yard. Well, there aren't other things, but shh!
 Pozór! Lezuuu!
-
+Beware! I'm climbing in!
 Tohle jablíèko je pøíliš vysoko!
-
+This apple is too high!
 Krásné èervené jablíèko.
-
+Beautiful red apple.
 Proè bych mìl lézt na pùdu?
-
+Why should I climb to the garret?
 A dìláš co dìláš, na pùdu se holıma rukama nevyškrábeš.
-
+You try as you can, but you aren't able to climb to the garret with bare hands.
 Rád by sis pokecal s králíkem, bohuel pro tebe tam ádnı není.
-
+You'd like to chat with a rabbit, but unfortunately, there is none.
 To do králíkárny nepatøí!
-
+This doesn't belong to the rabbit hutch!
 Po bliším prozkoumání králíkárny jsi usoudil, e je skuteènì prázdná.
-
+After a closer look, you are now absolutely sure it's really empty.
 Tohle zasadit nejde!
-
+You can't plant it!
 A helemese, krásná mrkvièka, tak tu si hned utrhnu! Zdravá strava pøeci musí bıt!
-
+Oh, look, a nice carrot, I should pick it! Everybody needs a healthy diet.
 Další mrkev u nepotøebuju.
-
+I don't need additional carrot.
 Špetka sena, která vypadla z pùdièky, tam se jí bude asi sušit více.
-
+A bit of hay that fell from the garret. There is probably more inside.
 Tam nic není.
-
+There's nothing.
 Dveøe, co vedou ven pøed baráèek.
-
+Door leading outside the house.
 Co si pøeješ s kostìtem udìlat?
-
+What would you like to do with the broom?
 Zamést
 Sweep
 Vzít koštì
 Take broom
 Koštì na zametání a vymetání...
-
+A broom for sweeping up and out...
 Není zcela vhodné, abys prohledával dìdovu skøíòku, kdy se dìda kouká!
-
+It's a bit impolite to be searching the old man's locker when he's looking!
 Skøínka nejspíš obsahuje dìdovy osobní vìci a cennosti, které není dobré nechat válet po místosti, aby se neøeklo, e je tu bordel, nebo aby hned nezmizely?
-
+The locker probably contains the old man's personal things and valuables that shouldn't be lying on the ground. To keep the room tidy or maybe to keep them safe.
 Kdepak, ádnı tajnı sejf.
-
+Nope, no secret safe.
 Ah, a se zastavuje dech. Obraz dìdy a jeho neboky eny tesnì po svatbì. Tedy øeknu vám, byl to skuteènì fešák!
-
+You hold your breath at the picture of the old man and his poor wife, right after the wedding. Man, he was really handsome!
 Pokud chceš mluvit s dìdou, promluv s jeho skuteènou podobou!
-
+If you to talk to the old man, you should talk to his person, not the picture.
 Pokud by byl karneval, moná bys pøemıšlel o tom, vzít si to na hlavu, ale jinak bych to nechal radši na stìnì.
-
+It would be useful to wear it on a carnival, but now you should leave it on the wall.
 Tato trofej zde visí ji notnou dávku let, kdy se ještì dìda prohánìl po lese jak laò. Bohuel tahle laò se prohánìla pomaleji ne dìda...
-
+This trophy hangs here for a really long time, when the old man wasn't old and was as swift as a doe. Well, swifter than this doe...
 Nebo e by to byl jelen?
-
+Or is it a stag?
 Vzhledem k tomu, e tohle zvíøe u pár let neije, u ani nemluví. Mezi námi, nejspíš by nemluvilo ani pøedtim.
-
+This animal hasn't been living for a long time, the same for talking. Well, it probably wasn't talking even before.
 Ve skøíni je dìdovo obleèení. Vzhledem k tomu, e nic z jeho šatníku nepotøebuješ, nemáš potøebu se tam ani moc hrabat. Navíc je to neslušné.
-
+There are the old man's clothes in the wardrobe. Considering you don't need them, you don't want to search there. And it's impolite.
 Ve skøíni je s nejvìtší pravdìpodobností dìdovo obleèení.
-
+It is most probable there are the old man's in the wardrobe.
 V tom haraburdí se hrabat nebudu. Není to moje.
-
+I don't want to rummage this rummage. And it's not my rummage.
 Na skøíni je zmì nìjakého nepodstatného haraburdí.
-
+There is some junk on the wardrobe. It's not important.
 To je nìjakı rejè nebo co. To nepotøebujem.
-
+Sort of a spade, I think. We don't need it.
 Chceš se trochu prospat na peci?
-
+Do you want to sleep a bit on the stove?
 Šup na pec
-
+Hop on the stove
 Bıt vzhùru
 Stay awake
 Krásnì høeje. Prospíš se na ní, ale a bude noc. Teï bys byl jak línej Honza z pohádky.
-
+It's nicely warm. However, you should wait until night. Don't be lazy!
 Pec dodává místnosti krásnou teplou atmosféru. Navíc slouí jako tvé úloištì ke spánku. Není nad spánek na høejivé peci.
-
+The stove adds a nice warm atmosphere to the room. And it serves as your bed. No sleep is better than the sleep on a stove.
 Co chceš s polínkem udìlat?
-
+What do you want to do with the log?
 Pøiloit
-
+Stoke it
 Zapálit
-
+Ignite it
 Vloil jsi hoøící pochodeò do kamen.
-
+You've insterted the burning log into the stove.
 Tohle bych nepálil.
-
+I'd better not burn that.
 Vdy u jedno máš.
-
+You've already got one.
 Vzhledem k tomu, e máš hoøící pochodeò, není rozumné brát další døevo, nerad bys rozpoutal celosvìtovı poár.
-
+Given you've already got a torch, it's not wise to take more wood. You don't want to start a global fire.
 Sebral jsi polínko.
-
+You've picked up a log.
 Košík se døevem urèenım primárnì do kamen.
-
+Basket containing firewood.
 Vrátil jsi polínko zpìt do košíku.
-
+You've returned the log back into the basket.
 Myslím, e dìda nestojí o naèechrání peøiny, i kdy by to tøeba bylo jakımsi projevem úcty, ale radši ne.
-
+The old man doesn't want his pillow to be plumped up. And not even as a show of respect.
 Dìda si hezky chrupká pod peøinou.
-
+The old man is peacefully sleeping in the bed.
 Dìdova postel, peøina z pravého peøí je poøádnì nadıchaná. To je pelech sakryš. Dìda si tam chodí kadı veèer prospat.
-
+The old man's bed, it's made of real feathers. Each night, he sleeps there.
 Na jednu stranu by to bylo urèitì super pøekvapení, a by dìda pod peøinou objevil tohle, ale radši si to nech.
-
+On one hand, it will surely be a surprise for the old man to find this in his bed, but you should rather keep it.
 Kdepak, kdepak, ádné posedávání, hrdino, vstávat a hurá za dobrodrustvím!
-
+No more sitting, hero, stand up and look for an adventure!
 Lavice pro zákazníky nebo babky koøenáøky, kdy pøijdou na pokec k dìdovi.
-
+A bench for customers and women herbalists, who come to chat with the old man.
 To jsou dìdovy pantofle. Nech mu je. I kdy je pravda, e by si jako správnej švec umìl obratem ruky ušít nové, ale pøeci jen, ruku na srdce, co bys s nimi dìlal? Na sezení v pantoflích u houpacího køesla máš ještì dost èasu.
-
+These are the old man's slippers. Leave them there. Well, he should easily make new ones as a right shoemaker, but what will you do with them? You don't need them yet.  
 Pod lavicí jsou dìdovy pantofle.
-
+There are the old man's slippers under the bench.
 To bych do boty nestrkal.
-
+You shouldn't put it in a shoe.
 To je dìdovo místo.
-
+That's the old man's place.
 idle.
 Chair.
 To jsou dìdovy boty, na co by ti byly?
-
+These are the old man's shoes, what would they be useful for?
 Dìdovy boty.
-
+The old man's shoes.
 Nacházíš se v útulné chaloupce dìdy - tvého zachránce. Uprostøed je velkı stùl, kde dìda rád sedí. Pak je tu taky postel s duchnou velkou jak mrak a velká pec.
-
+You find yourself in the cozy cottage of the old man - your savior. In the middle of the room, there is a large table where the old man likes to sit. And there is also a big bed and a stove. 
 Chceš zavøít skøínku?
-
+Do you want to close the locker?
 Ve skøínce u není nic, co by sis mohl pøivlastnit!
-
+There aren't many more items that you can get your hands on in the locker.
 A hele, ve skøínce jsou nìjaké penízky, ty by se mohli hodit...
-
+Oh look, there are some money in the locker, they could be useful.
 Skøínka obsahuje hromadu osobních dìdovıch vìcí. Jeslti chceš najít nìco potøebného, musíš se podívat lépe.
-
+The locker contains lots of the old man's personal things. You need to look better, if you want to find something useful.
 Nejdøív se tam poøádnì podívej, je tam hromada krámù...
-
+Look there properly, there is a lot of junk.
 Sebral jsi 20 zlatıch!
-
+You've picked up 20 gold coins.
 Velkı modrı hrnek.
 Big blue cup.
 Na stole je dìdovo haraburdí, které pouívá pro svou ševcovskou práci.
-
+On the table, there are the old man's tools, which they use for his work.
 Nic z toho, co je na stole pravdìpodobnì vùbec nebudeš potøebovat, proto to tu radìji nechej (a navíc je to moc na ránì, èmajznout to dìdovi pøímo ze stolu)
-
+You won't probably need anything from the table, so let it there (and it would be impolite to just steal it in front of the old man).
 Dobrá, vrátíme koštì tam, kam patøí.
-
+Okay, let's return the broom where it belongs to.
 \"Zabít zlého ducha chtìl,[kde mìl nù však nevìdìl.[A tak leí v hrobì sám,[ke své rakvi pøipoután!\"
-
+\"Evil ghost he wanted grind, but his dagger couldn't find.[Now he is in the grave found,[to his coffin is he bound!\"
 Brrr!
-
+Ewww!
 \"Obìšencùv vrch\" nese cedule smìøující nahoru.[\"Kobka králù\" zní nápis smìøující ke kobce napravo.[\"Zámek\" ukazuje smìrem, kterım v dálce vidíš co jiného, ne zámek. Zajimávı ukazatel.
-
+\"The Hanged Hill\" can be read on the sign pointing up.[\"The King's Crypt\" is written on the sign pointing to the right.[\"The Castle\" points to the distance, but you see something a bit different than a castle. Interesting...
 Teï se nemùeš v nièem hrabat, kdy tu lítá taková potvora.
-
+You can't just do anything, when this beast is flying here.
 Heh, snad necheš hledat jehlu v kupce sena?!
-
+Heh, you want to search a needle in a hey?!
 Jsi si skuteènì jist, e mám v tıhle obøí hromadì hledat jehlu?!
-
+Are you really sure I have to look for a needle in this large heap?!
 Né, to nemùe byt pravda! Jak mam v takovıhle obrovitananánsky hromadì najít maloulinkaouèkou jehlu?
-
+No, this can't be true! How I am supposed to find a tiny little needle in this large big heap of hay?
 Dobrá, dobrá, podívám se...
-
+Okay, okay, I'll look.
 Nic.
 Nothing.
 Zkusím se podívat ještì tady takhle...
-
+I could try to look a bit here...
 Zase nic!
-
+Nothing, again!
 Ještì by mohla bıt tady...
-
+Maybe it could be here...
 Hmm, tam taky nic..
-
+Hmm, nothing...
 A u toho mám dost, poslední místo, kde mùe bıt, je jedinì tady!
-
+I have enough, the last place where it could've been can be only here!
 Tramtadadá!
-
+Hurrayy!
 Ne, díky, ještì teï mì od té suché trávy píchá celej èlovìk. U se v tom hrabat nebudu.
-
+No, thanks, I have dried grass all over myself. I am not going to do it again.
 Moc se radši nerozhlíej, nebo z toho ebøíku slítneš!
-
+Don't be looking around, or you will fall from the ladder!
 Moná by to byla krásná útulná pùdièka, nebıt tady té lítající ohnivé koule!
-
+Well, it could be a nice garrent, if not for this flying fireball!
 Krásná útulná pùdièka.
-
+A nice garret.
 Jako kadá správná poctivá pùda i tady je k vidìní správnì usušené seno. A krásnì voní.
-
+Every proper garret has dried hay. And this proper garret has nice-smelling dried hay.
 Musíš lépe míøit!
-
+You have to aim better!
 U jsi tady vymetl vše, co bylo potøeba. A pavouèka nechej ít!
-
+You've already swept out everything that you had to. And let the spider live!
 Vypadá to, e pavouèek relaxuje...
-
+It looks like the spider is relaxing...
 Radši na nìj moc nešmatej, co kdyby tì kousnul.
-
+Don't touch, he could bite you.
 Bohuel, tenhle pavouèek asi nemluví. \"Haló, pane pavouku!\"[Nic.
-
+Unfortunately, this spider can't talk. \"Hey, mister spider!"[Nothing.
 Nech pavouèka ít, je hodnej.
-
+Let the spider live, he's nice.
 Jakmile jsi vstoupil na poslední pøíèku ebøíku a upøel svùj pohled na pùdu, zjistil jsi, e nìco není skuteènì v poøádku.
-
+As you stepped on the last rung of the ladder, you got an impression that there is really something wrong.
 Místností se zbìsile prohání ohnivá koule a všude je cítit silnı zápach síry! Jen aby tu nìco nechytlo! To by byl konec!
-
+An angry fiery sphere is flying across the room, and you smell sulphurous stink everywhere! If only it didn't get ignited! That would be an end! 
 Zamèeno. Asi to bude chtít pokoj pronajmout...
-
+Locked. It needs to rent the room...
 Brrr nìkdo to zapomìl po sobì uklidit! Na ten radši šahat nebudu.
-
+Eww, somebody forgot to put this away! I shouldn't touch it.
 A heleme se, pod postelí je noèníèek.
-
+Oh, look, a chamber pot under the bed.
 To u jsi na tom tak špatnì, aby sis povídal s pípou?
-
+Are you really so down to talk with the tap?
 Lepší bude si o to øíci hospodskému.
-
+It would be better to tell it the barman.
 Pípa. Odtud teèe ten lahodnı mok. Ikdy, nejseš si jist, zda-li se dá nazıvati lahodnım i v této krèmì.
-
+The tap. Through this flows the tasty fluid. Well, you are not sure whether is should be called tasty, in this pub.
 Pivo se toèí vıhradnì do místních korbelù!
-
+The beer is drawn exclusively in local tankards!
 Tvé pivo.
-
+Your beer.
 Není to tak špatné...
-
+It's not so bad...
 U je to prázdné...
-
+It's already empty...
 Lahve èehosi. Pravdìpodobnì to bude místní kvalitní víno nejvyšší jakosti.
-
+Bottles of something. Sure it is the local wine known for its quality.
 To je korbel na pivo. Také se dá vyuít k posilování loketních svalù.
-
+This is a beer tankard. It's used mainly for raising and drinking from it.
 Od toho je tady hospodskı.
-
+This comes under the barman's competence. 
 To je bar.
 This is a bar.
 No tak, snad se nebudeš válet po baru?
-
+Come on, you won't roll over the bar.
 Nacházíš se u vıèepu v místní krèmì. Jak vidíš, je zde širokı vıbìr nápojù a milá obsluha.
-
+You find yourself at the bar in the local tavern. As you can see, there is large selection of beverages and pleasant staff.
 Nacházíš se u vchodu z lesa. Vane zde pøíjemnı vánek s vùní trávy. Smìrem na jih pøed sebou vidíš údolí.
-
+You find yourself at the exit from the forest. Nice wind blows here and carries aroma of grass. To the south, you see a valley.
 Abys øekl pravdu, moc se ti na paøez sedat nechce. Obyèejnì takovéto akce konèí zadnicí od smùly.
-
+In truth, you don't actually want to sit on the stump. This often leads to a bottom of resin.
 Paøez.
-
+A stump.
 \"Haló, paøeze!\"
-
+\"Greetings, mister stump!\"
 Kùru bøízy myslím nepotøebuješ.
-
+You don't need a birch bark, I think. 
 Krásná silná bøíza.
-
+A nice strong birch.
 Jsi uprostøed lesa. Nikam jinam ne po pìšince se tady jít nedá.
-
+You are in the middle of the forest. You can only walk on the path.
 Nacházíš se na rozcestí v leste. V dálce vidiš dìdovu chaloupku a matnì si vzpomínáš zdali náhodou dìda neøíkal, aby jsis dával v lese pozor, nebo tak nìco.
-
+You find yourself on the forest crossroad. In the distance, you see the old man's cottage. You vaguely remember him saying to be careful in the forest, or something like that.
 credits loaded
 credits loaded
 1997 - 2014
@@ -1341,7 +1345,7 @@ Web
 www.draci-zub.cz
 www.dragonsfangadventure.com
 Vyvinuto v prostøedí Adventure Game Studio
-
+Developed in Adventure Game Studio
 1995 - 2011 by Chris Jones
 
 [[
@@ -1357,81 +1361,81 @@ Credits plugin, Verze 1.19
 26.10.2007 by SSH
 
 Zvláštní podìkování
-Special thanks
+Special thanks to
 Lori Ann a Corey Cole
-
+Lori Ann and Corey Cole
 ...a všem, kteøí se mnou trávili
-
+...and everybody who spent with me
 chvíli rozjímání nad hrou
-
+times musing on the game 
 poslední podìkování patøí i Vám
-
+the last thank goes to You
 za zahrání si...
-
+for playing it...
 Bylo nebylo...
-
+Once upon a time...
 Za devatero lesy a devatero horami ila jedna slušná a poctivá rodina.
-
+Far, far away, beyond woods and beyond mountains, there lived a honest and virtuous family.
 Dlouho nemohli mít potomka, a tak se kadı den modlili k Pánu Bohu.
-
+They couldn't happen to get a child, so they prayed every day to our Lord.
 Jejich pøání bylo naštestí vyslyšeno, a tak se jim narodil syn, kterému dali jméno %s.
-
+Their wish was granted, for their son was born, who got a name %s.
 Nad kolébkou se mu sešly tøi sudièky, aby mu, jak je zvykem, pøedpovìdìly, co ho v ivotì èeká.
-
+Above his cradle three Fates met, to foretell what will happen to him in his life, as it was tradition.
 Ta první, nejmladší sudièka, pravila:
-
+The first, youngest Fate, said:
 \"Tvùj ivot bude neobyèejnì pestrı. Budeš dobrım èlovìkem a budeš pomáhat všem lidem ze svého okolí.\"
-
+\"Your life will be unusually colourful. You will be a good person and will help all people you find.\"
 Druhá sudièka pravila:
-
+The second Fate said:
 \"Svìt není nikdy spravedlivı, kadı dobrı skutek musí bıt po zásluze potrestán. Za tvé dobro tì neèeká nic dobrého.\"
-
+\"The world is never just, each good deed leads to a punishmed. Nothing good awaits you for your deeds.\"
 A nakonec poslední, nejmoudøejší ze sudièek, pravila:
-
+But the last, wisest of the Fates, said:
 \"Ale notak sestro, pøece nebudeš tak zlá, tento mladı mu bude nakonec pøeci jen odmìnìn, bude slavnı a bohatı.\"
-
+\"But sister, don't be so mean, in the end, this young man will be rewarded, he will be famous and rich.\" 
 \"Jen si to musí zaslouit..\"
-
+\"But he has to earn it...\"
 A tak bylo pøedpovìzeno.
-
+And so it was foretold.
 Mladı mu rostl jako z vody. Rodièe ho vychovávali, jak nejlépe mohli.
-
+The young man was growing like a weed. His parents were raising him as best as the could.
 Nakonec ale i je èekalo smutné louèení - syn vyrostl a vydal se do svìta.
-
+But in the end, even they had to bid their son farewell - the son grew up and set out in the world.
 Putoval širım svìtem a pøespával, kde se dalo...
-
+He walked under open sky and sleps where he could...
 Jednou ho však zastihla neobyèejnì silná bouøe...
-
+But one day, a strong storm caught him...
 V tuto chvíli to s naším hrdinou vypadalo velice špatnì...
-
+In this moment, the situation wasn't very good for out hero...
 Vysílenı a promoèenı upadl do bezvìdomí.
-
+Fatigued soaked fell he unconscious.
 Ale najednou...
-
+But suddenly...
 Vstávej!
 Wake up!
 Tak haló, mladíku!
-
+Hey, lad!
 To jsem v nebi? pomyslel sis. Leí se mi tu tak pìknì... \"Zdravím vás, Svatı Petøe!\"
-
+Am I in the heaven? you thought. I am lying here so softly... \"Hello, Saint Peter!\"
 Ale prd! Seš u mì v chalupì! Našel jsem tì v lese. Málem si se utopil v bainách, byla šílená bouøka!
-
+Oh damn! You're in my cottage! I've found you in the forest. You nearly drowned in the swamp, it was a storm like hell.
 Tvé sténání jsem slyšel a sem, nedalo se u toho pracovat!
-
+Your groaning was heard even here, I couldn't work in it!
 \"A kdo jste?\", zeptal jsi se...
-
+\"And who are you?" you asked...
 To bys mnì spíš mìl øíci ty, mladíku!
-
+You should tell me first, lad!
 \"Dobrá, jmenuji se %s\", odvìtil jsi...
-
+\"Alright, my name is %s.\"
 Tak to tì tady opravdu vítám! A teï šup, vypadáš u dobøe, vyskoè z postele a dej se do práce, pøece tì tu nebudu ubytovávat zadarmo...
-
+So welcome here! And come on now, you look better, get on your feet and start working, I am not going to let you here live for free...
 uvádí
 presents
 èeskou adventuru
 classic adventure game
 Slušnì jsi pozdravil.
-
+You've said hello.
 /10
 
 /11
@@ -1480,7 +1484,13 @@ Slušnì jsi pozdravil.
 
 /9
 
-%s %02d:%02d
+%s %s %s: %02d:%02d
 
 Skore 100/100
 
+Draèí Zub Verze %s, Èas:
+Dragon's Fang Ver. %s, Time:
+%s %02d:%02d
+%s %02d:%02d
+Po dùkladném prozkoumání modrého hrnku, kterı je skuteènì modrı, jsi na nìm objevil tajnou mapu, která ti ukázala cestu do vesnice.
+After a thorough examination of the blue cup, you've discovered it is really blue. What's more, you've found a secret map that shows the way to the village.

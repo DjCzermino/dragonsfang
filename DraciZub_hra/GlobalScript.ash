@@ -23,3 +23,4 @@ import function PlayBgMusic(AudioClip *music);
 import function GoToMenu();
 import function ShowIconBar(bool show);
 import bool IsHandheld();
+import function DisplayBottom(int y, String message);
